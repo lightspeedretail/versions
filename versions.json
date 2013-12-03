@@ -1,0 +1,13 @@
+{
+	"environments" : {
+		"production" : {
+			"tag" : "2013_11_19_hotfix_cld_333"
+		},
+		"firstwave" : {
+			"tag" : "cloud-2013-07-24-02-45"
+		},
+		"development" : {
+			"branch" : "cloud-staging"
+		}
+	}
+}
