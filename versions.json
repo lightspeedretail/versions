@@ -1,13 +1,51 @@
 {
-	"environments" : {
-		"production" : {
-			"tag" : "2013_11_19_hotfix_cld_333"
-		},
-		"firstwave" : {
-			"tag" : "cloud-2013-07-24-02-45"
-		},
-		"development" : {
-			"branch" : "cloud-staging"
-		}
-	}
+    "products" : {
+        "cloud" : {
+            "environments" : {
+                "production" : {
+                    "tag" : "2013_11_19_hotfix_cld_333"
+                },
+                "firstwave" : {
+                    "tag" : "cloud-2013-07-24-02-45",
+                    "comment" : "Runs on production resources. Beta Customers"
+                },
+                "development" : {
+                    "branch" : "cloud-staging",
+                    "comment" : "radcloud.merchantos.com on production resources"
+                },
+                "staging" : {
+                    "branch" : "develop",
+                    "comment" : "Hoping to run at staging.merchantos.com. Runs on staging resources in sand box"
+                },
+                "legacy-production" : {
+                    "tag" : "2013_11_01_r_i_p_d",
+                    "comment" : "Production customers old UI"
+                },
+                "legacy-development" : {
+                    "branch" : "staging",
+                    "comment" : "rad.merchantos.com old UI testing environment on production resources"
+                }
+            }
+        },
+        "bronze" : {
+            "environments" : {
+                "staging" : {
+                    "branch" : "master"
+                },
+                "production" : {
+                    "tag" : "unknown!"
+                }
+            }
+        },
+        "webstore" : {
+            "environments" : {
+                "staging" : {
+                    "branch" : "staging"
+                },
+                "production" : {
+                    "tag" : "unknown!"
+                }
+            }
+        }
+    }
 }
