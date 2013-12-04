@@ -2,29 +2,29 @@
     "products" : {
         "cloud" : {
             "environments" : {
-                "production" : {
+                "cloud" : {
                     "version" : "2013_11_19_hotfix_cld_333",
-                    "comment" : "Corrections for API rate limits"
+                    "comment" : "Corrections for API rate limits. Production for cloud"
                 },
                 "firstwave" : {
                     "version" : "cloud-2013-07-24-02-45",
                     "comment" : "Runs on production resources. Beta Customers"
                 },
-                "legacy-production" : {
+                "shop" : {
                     "version" : "2013_11_01_r_i_p_d",
                     "comment" : "Production customers old UI"
                 },
-                "legacy-development" : {
+                "rad" : {
                     "version" : "staging",
-                    "comment" : "rad.merchantos.com old UI testing environment on production resources"
+                    "comment" : "Old UI testing environment on production resources"
                 },
                 "staging" : {
                     "version" : "staging-2013-12-04-1400",
-                    "comment" : "Hoping to run at staging.merchantos.com. Runs on staging resources in sand box"
+                    "comment" : "Staging for QA in the sand box"
                 },
-                "development" : {
+                "radcloud" : {
                     "version" : "cloud-staging",
-                    "comment" : "radcloud.merchantos.com on production resources"
+                    "comment" : "Old test area on production resources"
                 }
             }
         },
