@@ -3,47 +3,60 @@
         "cloud" : {
             "environments" : {
                 "production" : {
-                    "tag" : "2013_11_19_hotfix_cld_333"
+                    "version" : "2013_11_19_hotfix_cld_333",
+                    "comment" : "Corrections for API rate limits"
                 },
                 "firstwave" : {
-                    "tag" : "cloud-2013-07-24-02-45",
+                    "version" : "cloud-2013-07-24-02-45",
                     "comment" : "Runs on production resources. Beta Customers"
                 },
-                "development" : {
-                    "branch" : "cloud-staging",
-                    "comment" : "radcloud.merchantos.com on production resources"
-                },
-                "staging" : {
-                    "branch" : "develop",
-                    "comment" : "Hoping to run at staging.merchantos.com. Runs on staging resources in sand box"
-                },
                 "legacy-production" : {
-                    "tag" : "2013_11_01_r_i_p_d",
+                    "version" : "2013_11_01_r_i_p_d",
                     "comment" : "Production customers old UI"
                 },
                 "legacy-development" : {
-                    "branch" : "staging",
+                    "version" : "staging",
                     "comment" : "rad.merchantos.com old UI testing environment on production resources"
+                },
+                "staging" : {
+                    "version" : "staging-2013-12-04-1400",
+                    "comment" : "Hoping to run at staging.merchantos.com. Runs on staging resources in sand box"
+                },
+                "development" : {
+                    "version" : "cloud-staging",
+                    "comment" : "radcloud.merchantos.com on production resources"
                 }
             }
         },
         "bronze" : {
             "environments" : {
-                "staging" : {
-                    "branch" : "master"
-                },
                 "production" : {
-                    "tag" : "unknown!"
+                    "version" : "master",
+                    "comment" : "Repudiate hornswoggles"
+                },
+                "staging" : {
+                    "version" : "staging-2013-12-04-1400",
+                    "comment" : "Tag created for testing on the master branch"
+                },
+                "development" : {
+                    "version" : "staging-2013-12-04-1400",
+                    "comment" : "Tag created for testing on the master branch"
                 }
             }
         },
         "webstore" : {
             "environments" : {
-                "staging" : {
-                    "branch" : "staging"
-                },
                 "production" : {
-                    "tag" : "unknown!"
+                    "version" : "3.0.8",
+                    "comment" : "Official 3.0.8 release tag on the master branch"
+                },
+                "staging" : {
+                    "version" : "staging",
+                    "comment" : "Eat beans"
+                },
+                "development" : {
+                    "version" : "dev",
+                    "comment" : "Harass marsupials"
                 }
             }
         }
