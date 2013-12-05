@@ -19,7 +19,7 @@
                     "comment" : "Old UI testing environment on production resources"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-04-2230",
+                    "version" : "staging-2013-12-05-2000",
                     "comment" : "Staging for QA in the sand box"
                 },
                 "radcloud" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-05-1400",
+                    "version" : "staging-2013-12-05-2000",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-05-1400",
+                    "version" : "staging-2013-12-05-2000",
                     "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "staging-2013-12-05-1400",
+                    "version" : "staging-2013-12-05-2000",
                     "comment" : "Latest mini-release"
                 }
             }
