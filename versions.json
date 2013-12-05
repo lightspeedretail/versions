@@ -19,7 +19,7 @@
                     "comment" : "Old UI testing environment on production resources"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-04-1400",
+                    "version" : "staging-2013-12-04-2230",
                     "comment" : "Staging for QA in the sand box"
                 },
                 "radcloud" : {
