@@ -14,10 +14,6 @@
                     "version" : "2013_11_01_r_i_p_d",
                     "comment" : "Production customers old UI"
                 },
-                "rad" : {
-                    "version" : "staging",
-                    "comment" : "Old UI testing environment on production resources"
-                },
                 "staging" : {
                     "version" : "staging-2013-12-05-2000",
                     "comment" : "Staging for QA in the sand box"
@@ -25,6 +21,10 @@
                 "radcloud" : {
                     "version" : "cloud-staging",
                     "comment" : "Old test area on production resources"
+                },
+                "rad" : {
+                    "version" : "staging",
+                    "comment" : "Old UI testing environment on production resources"
                 }
             }
         },
@@ -51,12 +51,12 @@
                     "comment" : "Official 3.0.8 release tag on the master branch"
                 },
                 "staging" : {
-                    "version" : "staging",
-                    "comment" : "Eat beans"
+                    "version" : "staging-2013-12-05-2000",
+                    "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "dev",
-                    "comment" : "Harass marsupials"
+                    "version" : "staging-2013-12-05-2000",
+                    "comment" : "Latest mini-release"
                 }
             }
         }
