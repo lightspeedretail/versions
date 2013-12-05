@@ -31,16 +31,16 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "master",
-                    "comment" : "Repudiate hornswoggles"
+                    "version" : "staging-2013-12-05-1400",
+                    "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-04-1400",
-                    "comment" : "Tag created for testing on the master branch"
+                    "version" : "staging-2013-12-05-1400",
+                    "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "staging-2013-12-04-1400",
-                    "comment" : "Tag created for testing on the master branch"
+                    "version" : "staging-2013-12-05-1400",
+                    "comment" : "Latest mini-release"
                 }
             }
         },
