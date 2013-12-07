@@ -10,13 +10,13 @@
                     "version" : "cloud-2013-07-24-02-45",
                     "comment" : "Runs on production resources. Beta Customers"
                 },
-                "shop" : {
-                    "version" : "2013_11_01_r_i_p_d",
-                    "comment" : "Production customers old UI"
-                },
                 "staging" : {
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Staging for QA in the sand box"
+                },
+                "shop" : {
+                    "version" : "2013_11_01_r_i_p_d",
+                    "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
                     "version" : "cloud-staging",
@@ -34,11 +34,11 @@
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
-                "staging" : {
+                "pre-prod" : {
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
-                "development" : {
+                "staging" : {
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 }
@@ -50,11 +50,11 @@
                     "version" : "3.0.8",
                     "comment" : "Official 3.0.8 release tag on the master branch"
                 },
-                "staging" : {
+                "pre-prod" : {
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
-                "development" : {
+                "staging" : {
                     "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 }
