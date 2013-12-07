@@ -14,10 +14,6 @@
                     "version" : "2013_11_01_r_i_p_d",
                     "comment" : "Production customers old UI"
                 },
-                "rad" : {
-                    "version" : "staging",
-                    "comment" : "Old UI testing environment on production resources"
-                },
                 "staging" : {
                     "version" : "staging-2013-12-07-1900",
                     "comment" : "Staging for QA in the sand box"
@@ -25,22 +21,26 @@
                 "radcloud" : {
                     "version" : "cloud-staging",
                     "comment" : "Old test area on production resources"
+                },
+                "rad" : {
+                    "version" : "staging",
+                    "comment" : "Old UI testing environment on production resources"
                 }
             }
         },
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "master",
-                    "comment" : "Repudiate hornswoggles"
+                    "version" : "staging-2013-12-06-1700",
+                    "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-04-1400",
-                    "comment" : "Tag created for testing on the master branch"
+                    "version" : "staging-2013-12-06-1700",
+                    "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "staging-2013-12-04-1400",
-                    "comment" : "Tag created for testing on the master branch"
+                    "version" : "staging-2013-12-06-1700",
+                    "comment" : "Latest mini-release"
                 }
             }
         },
@@ -51,12 +51,12 @@
                     "comment" : "Official 3.0.8 release tag on the master branch"
                 },
                 "staging" : {
-                    "version" : "staging",
-                    "comment" : "Eat beans"
+                    "version" : "staging-2013-12-06-1700",
+                    "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "dev",
-                    "comment" : "Harass marsupials"
+                    "version" : "staging-2013-12-06-1700",
+                    "comment" : "Latest mini-release"
                 }
             }
         }
