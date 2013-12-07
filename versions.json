@@ -15,7 +15,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Staging for QA in the sand box"
                 },
                 "radcloud" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 }
             }
@@ -51,11 +51,11 @@
                     "comment" : "Official 3.0.8 release tag on the master branch"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 },
                 "development" : {
-                    "version" : "staging-2013-12-07-1900",
+                    "version" : "staging-2013-12-07-2130",
                     "comment" : "Latest mini-release"
                 }
             }
