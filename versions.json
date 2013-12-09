@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Staging for QA in the sand box"
                 },
                 "shop" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Latest mini-release"
                 }
             }
@@ -51,11 +51,11 @@
                     "comment" : "Official 3.0.8 release tag on the master branch"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-07-2130",
+                    "version" : "staging-2013-12-09-2030",
                     "comment" : "Latest mini-release"
                 }
             }
