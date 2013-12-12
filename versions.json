@@ -3,7 +3,7 @@
         "cloud" : {
             "environments" : {
                 "cloud" : {
-                    "version" : "2013_11_19_hotfix_cld_333",
+                    "version" : "cloud-2013-12-11-images",
                     "comment" : "Corrections for API rate limits. Production for cloud"
                 },
                 "firstwave" : {
