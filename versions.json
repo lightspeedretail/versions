@@ -3,7 +3,7 @@
         "cloud" : {
             "environments" : {
                 "cloud" : {
-                    "version" : "cloud-2013-12-11-images",
+                    "version" : "cloud-2013-12-11-images2",
                     "comment" : "Corrections for API rate limits. Production for cloud"
                 },
                 "firstwave" : {
