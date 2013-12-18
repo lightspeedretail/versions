@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-16-1800",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-16-1800",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-16-1800",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-16-1800",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 }
             }
@@ -47,15 +47,15 @@
         "webstore" : {
             "environments" : {
                 "production" : {
-                    "version" : "3.0.8",
-                    "comment" : "Official 3.0.8 release tag on the master branch"
+                    "version" : "3.0.7",
+                    "comment" : "Official 3.0.7 release tag"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-13-1900",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-16-1800",
+                    "version" : "staging-2013-12-18-2000",
                     "comment" : "Latest mini-release"
                 }
             }
