@@ -19,7 +19,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
-                    "version" : "release-bronze-product-images",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
