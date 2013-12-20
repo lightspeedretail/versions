@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 }
             }
@@ -51,11 +51,11 @@
                     "comment" : "Official 3.0.7 release tag"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-18-2000",
+                    "version" : "staging-2013-12-20-1400",
                     "comment" : "Latest mini-release"
                 }
             }
