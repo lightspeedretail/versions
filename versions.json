@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2013-12-23-1400",
+                    "version" : "staging-2013-12-30-1300",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2013-12-23-1400",
+                    "version" : "staging-2013-12-30-1300",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-23-1400",
+                    "version" : "staging-2013-12-30-1300",
                     "comment" : "Latest mini-release"
                 }
             }
