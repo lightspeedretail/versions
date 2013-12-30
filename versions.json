@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2013-12-23-1400",
+                    "version" : "staging-2013-12-30-1300",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
