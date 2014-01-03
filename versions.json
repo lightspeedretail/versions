@@ -19,7 +19,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
-                    "version" : "staging-2013-12-20-1400",
+                    "version" : "staging-2013-12-30-1600",
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
