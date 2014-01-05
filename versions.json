@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
@@ -19,7 +19,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 }
             }
@@ -47,15 +47,15 @@
         "webstore" : {
             "environments" : {
                 "production" : {
-                    "version" : "3.0.7",
-                    "comment" : "Official 3.0.7 release tag"
+                    "version" : "staging-2014-01-04-1800",
+                    "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-03-1600",
+                    "version" : "staging-2014-01-04-1800",
                     "comment" : "Latest mini-release"
                 }
             }
