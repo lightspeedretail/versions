@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-04-1800",
+                    "version" : "staging-2014-01-05-1000",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
@@ -19,7 +19,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
-                    "version" : "staging-2014-01-04-1800",
+                    "version" : "staging-2014-01-05-1000",
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
