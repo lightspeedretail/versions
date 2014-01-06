@@ -15,7 +15,7 @@
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
-                    "version" : "2013_11_01_r_i_p_d",
+                    "version" : "sprint6-bug-fixes-master",
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
