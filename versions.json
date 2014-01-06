@@ -1,62 +1,62 @@
 {
-    "products" : {
-        "cloud" : {
-            "environments" : {
-                "cloud" : {
-                    "version" : "cloud-2014-01-05-bronze",
-                    "comment" : "Corrections for API rate limits. Production for cloud"
+    "products": {
+        "cloud": {
+            "environments": {
+                "cloud": {
+                    "version": "cloud-2014-01-05-bronze",
+                    "comment": "Corrections for API rate limits. Production for cloud"
                 },
-                "firstwave" : {
-                    "version" : "cloud-2014-01-05-bronze",
-                    "comment" : "Runs on production resources. Beta Customers"
+                "firstwave": {
+                    "version": "cloud-2014-01-05-bronze",
+                    "comment": "Runs on production resources. Beta Customers"
                 },
-                "staging" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+                "staging": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 },
-                "shop" : {
-                    "version" : "sprint6-bug-fixes-master",
-                    "comment" : "Production customers old UI"
+                "shop": {
+                    "version": "sprint6-bug-fixes-master",
+                    "comment": "Production customers old UI"
                 },
-                "radcloud" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Old test area on production resources"
+                "radcloud": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Old test area on production resources"
                 },
-                "rad" : {
-                    "version" : "legacy",
-                    "comment" : "Old UI testing environment on production resources"
+                "rad": {
+                    "version": "legacy",
+                    "comment": "Old UI testing environment on production resources"
                 }
             }
         },
-        "bronze" : {
-            "environments" : {
-                "production" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+        "bronze": {
+            "environments": {
+                "production": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 },
-                "pre-prod" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+                "pre-prod": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 },
-                "staging" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+                "staging": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 }
             }
         },
-        "webstore" : {
-            "environments" : {
-                "production" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+        "webstore": {
+            "environments": {
+                "production": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 },
-                "pre-prod" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+                "pre-prod": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 },
-                "staging" : {
-                    "version" : "staging-2014-01-06-1300",
-                    "comment" : "Latest mini-release"
+                "staging": {
+                    "version": "staging-2014-01-06-1300",
+                    "comment": "Latest mini-release"
                 }
             }
         }
