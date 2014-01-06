@@ -11,7 +11,7 @@
                     "comment" : "Runs on production resources. Beta Customers"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-05-1000",
+                    "version" : "staging-2014-01-06-1300",
                     "comment" : "Latest mini-release"
                 },
                 "shop" : {
@@ -19,7 +19,7 @@
                     "comment" : "Production customers old UI"
                 },
                 "radcloud" : {
-                    "version" : "staging-2014-01-05-1000",
+                    "version" : "staging-2014-01-06-1300",
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
@@ -31,15 +31,15 @@
         "bronze" : {
             "environments" : {
                 "production" : {
-                    "version" : "staging-2014-01-05-2300",
+                    "version" : "staging-2014-01-06-1300",
                     "comment" : "Latest mini-release"
                 },
                 "pre-prod" : {
-                    "version" : "staging-2014-01-05-2300",
+                    "version" : "staging-2014-01-06-1300",
                     "comment" : "Latest mini-release"
                 },
                 "staging" : {
-                    "version" : "staging-2014-01-05-2300",
+                    "version" : "staging-2014-01-06-1300",
                     "comment" : "Latest mini-release"
                 }
             }
