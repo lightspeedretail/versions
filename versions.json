@@ -23,7 +23,7 @@
                     "comment" : "Old test area on production resources"
                 },
                 "rad" : {
-                    "version" : "staging",
+                    "version" : "legacy",
                     "comment" : "Old UI testing environment on production resources"
                 }
             }
