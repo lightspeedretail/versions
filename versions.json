@@ -3,11 +3,11 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "version": "cloud-2014-01-05-bronze",
+                    "version": "cloud-2014-01-06-2230-crimson",
                     "comment": "Corrections for API rate limits. Production for cloud"
                 },
                 "firstwave": {
-                    "version": "cloud-2014-01-05-bronze",
+                    "version": "cloud-2014-01-06-2230-crimson",
                     "comment": "Runs on production resources. Beta Customers"
                 },
                 "staging": {
