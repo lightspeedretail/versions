@@ -1,62 +1,62 @@
 {
     "products": {
-        "cloud": {
+        "bronze": {
             "environments": {
-                "cloud": {
-                    "version": "cloud-2014-01-06-2230-crimson",
-                    "comment": "Corrections for API rate limits. Production for cloud"
+                "pre-prod": {
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1800"
                 },
-                "firstwave": {
-                    "version": "cloud-2014-01-06-2230-crimson",
-                    "comment": "Runs on production resources. Beta Customers"
+                "production": {
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1800"
                 },
                 "staging": {
-                    "version": "staging-2014-01-06-2230",
-                    "comment": "Latest mini-release"
-                },
-                "shop": {
-                    "version": "legacy-2013-12-16-sprint6",
-                    "comment": "Production customers old UI"
-                },
-                "radcloud": {
-                    "version": "staging-2014-01-06-2230",
-                    "comment": "Old test area on production resources"
-                },
-                "rad": {
-                    "version": "legacy",
-                    "comment": "Old UI testing environment on production resources"
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1800"
                 }
             }
         },
-        "bronze": {
+        "cloud": {
             "environments": {
-                "production": {
-                    "version": "staging-2014-01-06-1800",
-                    "comment": "Latest mini-release"
+                "cloud": {
+                    "comment": "Corrections for API rate limits. Production for cloud",
+                    "version": "cloud-2014-01-06-2230-crimson"
                 },
-                "pre-prod": {
-                    "version": "staging-2014-01-06-1800",
-                    "comment": "Latest mini-release"
+                "firstwave": {
+                    "comment": "Runs on production resources. Beta Customers",
+                    "version": "cloud-2014-01-06-2230-crimson"
+                },
+                "rad": {
+                    "comment": "Old UI testing environment on production resources",
+                    "version": "legacy"
+                },
+                "radcloud": {
+                    "comment": "Old test area on production resources",
+                    "version": "staging-2014-01-06-2230"
+                },
+                "shop": {
+                    "comment": "Production customers old UI",
+                    "version": "legacy-2013-12-16-sprint6"
                 },
                 "staging": {
-                    "version": "staging-2014-01-06-1800",
-                    "comment": "Latest mini-release"
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-2230"
                 }
             }
         },
         "webstore": {
             "environments": {
-                "production": {
-                    "version": "staging-2014-01-06-1300",
-                    "comment": "Latest mini-release"
-                },
                 "pre-prod": {
-                    "version": "staging-2014-01-06-1300",
-                    "comment": "Latest mini-release"
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1300"
+                },
+                "production": {
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1300"
                 },
                 "staging": {
-                    "version": "staging-2014-01-06-1300",
-                    "comment": "Latest mini-release"
+                    "comment": "Latest mini-release",
+                    "version": "staging-2014-01-06-1300"
                 }
             }
         }
