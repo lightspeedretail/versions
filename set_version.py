@@ -78,7 +78,7 @@ if __name__ == '__main__':
     # Produce a sensible UTC value to use for naming things
     tagtime = datetime.utcnow().strftime('%Y-%m-%d-%H%M')
 
-    # Sanitize the comment string
+    # Sanitize the version string
     if options.version is None or options.version == '':
         options.version = '{}-{}'.format(options.environment, tagtime)
 
