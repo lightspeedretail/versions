@@ -34,7 +34,7 @@ if __name__ == '__main__':
     usage = 'Usage:  %prog [options]'
 
     description = '''
-    This script will sanitze json input while helping to set values.
+    This script will sanitize json input while helping to set values.
     '''
 
     parser = OptionParser(usage=usage, description=description)
