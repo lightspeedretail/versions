@@ -5,7 +5,6 @@
 from optparse import OptionParser
 import json
 from datetime import datetime
-import sys
 
 products = ['bronze', 'cloud', 'webstore']
 environments = ['pre-prod', 'production', 'staging', 'cloud', 'firstwave',
@@ -69,11 +68,11 @@ if __name__ == '__main__':
 
     # Sanitize the product string
     if options.product not in products:
-        sys.exit('Product must be one of {}'.format(products))
+        parser.error('Product must be one of {}'.format(products))
 
     # Sanitize the environment string
     if options.environment not in environments:
-        sys.exit('Environment must be one of {}'.format(environments))
+        parser.error('Environment must be one of {}'.format(environments))
 
     # Produce a sensible UTC value to use for naming things
     tagtime = datetime.utcnow().strftime('%Y-%m-%d-%H%M')
