@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "Old test area on production resources",
-                    "version": "staging-2014-01-06-2230"
+                    "version": "staging-2014-01-08-2200"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
@@ -40,7 +40,7 @@
                 },
                 "staging": {
                     "comment": "Latest mini-release",
-                    "version": "staging-2014-01-06-2230"
+                    "version": "staging-2014-01-08-2200"
                 }
             }
         },
