@@ -11,8 +11,8 @@
                     "version": "staging-2014-01-08-2000"
                 },
                 "staging": {
-                    "comment": "Latest mini-release",
-                    "version": "staging-2014-01-08-2000"
+                    "comment": "Urgent fix pushed to staging",
+                    "version": "staging-2014-01-09-1700"
                 }
             }
         },
