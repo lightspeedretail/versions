@@ -31,8 +31,8 @@
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "Old test area on production resources",
-                    "version": "staging-2014-01-09-1000"
+                    "comment": "Get CLD-687 and CLD-613 published on radcloud pronto",
+                    "version": "staging-2014-01-09-2030"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
