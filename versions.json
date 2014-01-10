@@ -39,8 +39,8 @@
                     "version": "legacy-2013-12-16-sprint6"
                 },
                 "staging": {
-                    "comment": "Get CLD-687 and CLD-613 published on staging pronto",
-                    "version": "staging-2014-01-09-2312"
+                    "comment": "Finish pushing CLD-695 and CLD-696 fixes to staging",
+                    "version": "staging-2014-01-10-0630"
                 }
             }
         },
