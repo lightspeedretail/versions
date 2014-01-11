@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "Get CLD-687 and CLD-613 published on radcloud pronto",
-                    "version": "cloud-2014-01-11-0834-copper"
+                    "version": "staging-2014-01-11-0935"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
