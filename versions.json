@@ -55,8 +55,8 @@
                     "version": "staging-2014-01-11-0113"
                 },
                 "staging": {
-                    "comment": "Latest mini-release",
-                    "version": "staging-2014-01-11-0113"
+                    "comment": "Deploy new webstore fixes",
+                    "version": "staging-2014-01-14-1400"
                 }
             }
         }
