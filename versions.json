@@ -20,7 +20,7 @@
             "environments": {
                 "cloud": {
                     "comment": "Corrections for API rate limits. Production for cloud",
-                    "version": "staging-2014-01-11-0935"
+                    "version": "cloud-2014-01-21-0100-hotfix"
                 },
                 "firstwave": {
                     "comment": "Runs on production resources. Beta Customers",
