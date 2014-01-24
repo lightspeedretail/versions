@@ -48,11 +48,11 @@
             "environments": {
                 "pre-prod": {
                     "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-01-23-1826"
+                    "version": "readyforstaging-2014-01-24-0050"
                 },
                 "production": {
                     "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-01-23-1826"
+                    "version": "readyforstaging-2014-01-24-0050"
                 },
                 "staging": {
                     "comment": "Deploy new webstore fixes",
