@@ -4,11 +4,11 @@
             "environments": {
                 "pre-prod": {
                     "comment": "Latest mini-release",
-                    "version": "deploy-2014-01-23-1340"
+                    "version": "deploy-2014-01-24-2000"
                 },
                 "production": {
                     "comment": "Latest mini-release",
-                    "version": "deploy-2014-01-23-1340"
+                    "version": "deploy-2014-01-24-2000"
                 },
                 "staging": {
                     "comment": "Urgent fix pushed to staging",
