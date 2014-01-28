@@ -40,7 +40,7 @@
                 },
                 "staging": {
                     "comment": "Finish pushing CLD-695 and CLD-696 fixes to staging",
-                    "version": "staging-2014-01-24-0015"
+                    "version": "cloud-2014-01-28-1724-sprint7"
                 }
             }
         },
