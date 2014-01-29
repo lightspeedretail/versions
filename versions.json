@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "Get CLD-687 and CLD-613 published on radcloud pronto",
-                    "version": "cloud-2014-01-27-0616-hotfix"
+                    "version": "cloud-2014-01-29-0035-hotfix"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
