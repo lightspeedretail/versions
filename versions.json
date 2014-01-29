@@ -20,11 +20,11 @@
             "environments": {
                 "cloud": {
                     "comment": "Corrections for API rate limits. Production for cloud",
-                    "version": "cloud-2014-01-29-0035-hotfix"
+                    "version": "cloud-2014-01-29-0744-hotfix"
                 },
                 "firstwave": {
                     "comment": "Runs on production resources. Beta Customers",
-                    "version": "staging-2014-01-11-0935"
+                    "version": "cloud-2014-01-29-0744-hotfix"
                 },
                 "rad": {
                     "comment": "Old UI testing environment on production resources",
@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "Get CLD-687 and CLD-613 published on radcloud pronto",
-                    "version": "cloud-2014-01-29-0035-hotfix"
+                    "version": "cloud-2014-01-29-0744-hotfix"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
@@ -40,7 +40,7 @@
                 },
                 "staging": {
                     "comment": "Finish pushing CLD-695 and CLD-696 fixes to staging",
-                    "version": "cloud-2014-01-29-0035-hotfix"
+                    "version": "cloud-2014-01-29-0744-hotfix"
                 }
             }
         },
