@@ -12,7 +12,7 @@
                 },
                 "staging": {
                     "comment": "Urgent fix pushed to staging",
-                    "version": "deploy-2014-01-24-2000"
+                    "version": "deploy-2014-01-29-0015"
                 }
             }
         },
