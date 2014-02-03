@@ -20,11 +20,11 @@
             "environments": {
                 "cloud": {
                     "comment": "Corrections for API rate limits. Production for cloud",
-                    "version": "cloud-2014-01-29-0744-hotfix"
+                    "version": "cloud-2014-01-30-1856-sprint7"
                 },
                 "firstwave": {
                     "comment": "Runs on production resources. Beta Customers",
-                    "version": "cloud-2014-01-29-0744-hotfix"
+                    "version": "cloud-2014-01-30-1856-sprint7"
                 },
                 "rad": {
                     "comment": "Old UI testing environment on production resources",
