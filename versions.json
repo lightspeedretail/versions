@@ -55,8 +55,8 @@
                     "version": "readyforstaging-2014-01-24-0050"
                 },
                 "staging": {
-                    "comment": "Deploy new webstore fixes",
-                    "version": "readyforstaging-2014-02-03-2355"
+                    "comment": "Deploy staging at 2014-02-06-1928",
+                    "version": "readyforstaging-2014-02-06-1918"
                 }
             }
         }
