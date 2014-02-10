@@ -48,11 +48,11 @@
             "environments": {
                 "pre-prod": {
                     "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-01-24-0050"
+                    "version": "readyforstaging-2014-02-06-1918"
                 },
                 "production": {
                     "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-01-24-0050"
+                    "version": "readyforstaging-2014-02-06-1918"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-06-1928",
