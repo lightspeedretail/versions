@@ -31,8 +31,8 @@
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "Get CLD-687 and CLD-613 published on radcloud pronto",
-                    "version": "cloud-2014-02-03-1700-hotfix"
+                    "comment": "Hotfix cloud to radcloud staging",
+                    "version": "cloud-2014-02-11-1700-sprint7-hotfix"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
