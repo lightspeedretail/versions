@@ -11,8 +11,8 @@
                     "version": "deploy-2014-01-29-1820"
                 },
                 "staging": {
-                    "comment": "Urgent fix pushed to staging",
-                    "version": "deploy-2014-02-10-2357"
+                    "comment": "Deploy staging at 2014-02-13-2112",
+                    "version": "bronze-2014-02-13-2115"
                 }
             }
         },
