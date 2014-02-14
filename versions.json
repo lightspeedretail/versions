@@ -20,11 +20,11 @@
             "environments": {
                 "cloud": {
                     "comment": "Corrections for API rate limits. Production for cloud",
-                    "version": "cloud-2014-02-14-0028-sprint8"
+                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
                 },
                 "firstwave": {
                     "comment": "Runs on production resources. Beta Customers",
-                    "version": "cloud-2014-02-14-0028-sprint8"
+                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
                 },
                 "rad": {
                     "comment": "Old UI testing environment on production resources",
@@ -40,7 +40,7 @@
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-14-0030",
-                    "version": "cloud-2014-02-14-0028-sprint8"
+                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
                 }
             }
         },
