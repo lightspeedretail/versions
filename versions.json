@@ -4,11 +4,11 @@
             "environments": {
                 "pre-prod": {
                     "comment": "Latest mini-release",
-                    "version": "deploy-2014-01-29-1820"
+                    "version": "bronze-2014-02-13-2115"
                 },
                 "production": {
                     "comment": "Latest mini-release",
-                    "version": "deploy-2014-01-29-1820"
+                    "version": "bronze-2014-02-13-2115"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-13-2112",
@@ -20,11 +20,11 @@
             "environments": {
                 "cloud": {
                     "comment": "Corrections for API rate limits. Production for cloud",
-                    "version": "cloud-2014-02-03-1700-hotfix"
+                    "version": "cloud-2014-02-14-0028-sprint8"
                 },
                 "firstwave": {
                     "comment": "Runs on production resources. Beta Customers",
-                    "version": "cloud-2014-01-30-1856-sprint7"
+                    "version": "cloud-2014-02-14-0028-sprint8"
                 },
                 "rad": {
                     "comment": "Old UI testing environment on production resources",
@@ -36,7 +36,7 @@
                 },
                 "shop": {
                     "comment": "Production customers old UI",
-                    "version": "legacy-2014-01-28-0424"
+                    "version": "legacy-2014-02-14-0029-sprint8"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-14-0030",
