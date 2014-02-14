@@ -39,8 +39,8 @@
                     "version": "legacy-2014-01-28-0424"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-13-2207",
-                    "version": "cloud-2014-02-13-2205-sprint8"
+                    "comment": "Deploy staging at 2014-02-14-0030",
+                    "version": "cloud-2014-02-14-0028-sprint8"
                 }
             }
         },
