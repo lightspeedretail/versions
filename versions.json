@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "Hotfix cloud to radcloud staging",
-                    "version": "cloud-2014-02-11-1700-sprint7-hotfix"
+                    "version": "cloud-2014-02-13-2205-sprint8"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
