@@ -39,8 +39,8 @@
                     "version": "legacy-2014-02-14-0029-sprint8"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-14-0030",
-                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
+                    "comment": "Deploy staging at 2014-02-19-2226",
+                    "version": "cloud-2014-02-14-2013-sprint9"
                 }
             }
         },
