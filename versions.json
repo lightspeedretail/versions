@@ -31,8 +31,8 @@
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "Hotfix cloud to radcloud staging",
-                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
+                    "comment": "Deploy radcloud at 2014-02-19-2005",
+                    "version": "cloud-2014-02-18-2004-sprint8-hotfix"
                 },
                 "shop": {
                     "comment": "Production customers old UI",
