@@ -7,8 +7,8 @@
                     "version": "bronze-2014-02-13-2115"
                 },
                 "production": {
-                    "comment": "Latest mini-release",
-                    "version": "bronze-2014-02-13-2115"
+                    "comment": "Deploy production at 2014-02-19-2237",
+                    "version": "bronze-2014-02-18-1803"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-18-1811",
