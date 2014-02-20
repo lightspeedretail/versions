@@ -20,11 +20,11 @@
             "environments": {
                 "cloud": {
                     "comment": "",
-                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
+                    "version": "cloud-2014-02-19-1932-sprint8-hotfix"
                 },
                 "firstwave": {
                     "comment": "",
-                    "version": "cloud-2014-02-14-2026-sprint8-hotfix"
+                    "version": "cloud-2014-02-19-1932-sprint8-hotfix"
                 },
                 "rad": {
                     "comment": "",
@@ -32,7 +32,7 @@
                 },
                 "radcloud": {
                     "comment": "",
-                    "version": "cloud-2014-02-18-2004-sprint8-hotfix"
+                    "version": "cloud-2014-02-19-1932-sprint8-hotfix"
                 },
                 "shop": {
                     "comment": "",
