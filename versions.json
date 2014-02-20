@@ -19,28 +19,32 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "Corrections for API rate limits. Production for cloud",
+                    "comment": "",
                     "version": "cloud-2014-02-14-2026-sprint8-hotfix"
                 },
                 "firstwave": {
-                    "comment": "Runs on production resources. Beta Customers",
+                    "comment": "",
                     "version": "cloud-2014-02-14-2026-sprint8-hotfix"
                 },
                 "rad": {
-                    "comment": "Old UI testing environment on production resources",
+                    "comment": "",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "Deploy radcloud at 2014-02-19-2005",
+                    "comment": "",
                     "version": "cloud-2014-02-18-2004-sprint8-hotfix"
                 },
                 "shop": {
-                    "comment": "Production customers old UI",
+                    "comment": "",
                     "version": "legacy-2014-02-14-0029-sprint8"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-19-2226",
+                    "comment": "",
                     "version": "cloud-2014-02-14-2013-sprint9"
+                },
+                "staging-legacy": {
+                    "comment": "",
+                    "version": "legacy"
                 }
             }
         },
