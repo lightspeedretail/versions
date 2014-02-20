@@ -82,7 +82,7 @@ if __name__ == '__main__':
         options.version = '{}-{}'.format(options.environment, tagtime)
 
     # Sanitize the comment string
-    if options.comment is None or options.comment == '':
+    if options.comment is None:
         options.comment = 'Deploy {} at {}'.format(options.environment,
             tagtime)
 
