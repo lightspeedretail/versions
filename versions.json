@@ -3,8 +3,8 @@
         "bronze": {
             "environments": {
                 "pre-prod": {
-                    "comment": "Latest mini-release",
-                    "version": "bronze-2014-02-13-2115"
+                    "comment": "",
+                    "version": "bronze-2014-02-18-1803"
                 },
                 "production": {
                     "comment": "Deploy production at 2014-02-19-2237",
