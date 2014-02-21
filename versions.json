@@ -51,12 +51,12 @@
         "webstore": {
             "environments": {
                 "pre-prod": {
-                    "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-02-12-1933"
+                    "comment": "",
+                    "version": "webstore-2014-02-20-2129"
                 },
                 "production": {
-                    "comment": "Latest mini-release",
-                    "version": "readyforstaging-2014-02-12-1933"
+                    "comment": "",
+                    "version": "webstore-2014-02-20-2129"
                 },
                 "staging": {
                     "comment": "",
