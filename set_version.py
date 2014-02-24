@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 
-# Run this script with the '-h' or '--help' option to get help.
+# Run this script with a '-h' or '--help' option to get usage and description.
+
+usage = 'Usage:  %prog [options]'
+
+description = '''
+This script will sanitize json input while helping to set values.
+'''
 
 from optparse import OptionParser
 import json
@@ -29,12 +35,6 @@ def update_versions(infile, outfile, product, environment, version,
             separators=(',', ': '))
 
 if __name__ == '__main__':
-
-    usage = 'Usage:  %prog [options]'
-
-    description = '''
-    This script will sanitize json input while helping to set values.
-    '''
 
     parser = OptionParser(usage=usage, description=description)
 
