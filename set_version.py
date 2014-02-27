@@ -8,13 +8,13 @@ description = '''
 This script will sanitize json input while helping to set values.
 '''
 
+products = ['bronze', 'cloud', 'webstore']
+environments = ['pre-prod', 'production', 'staging', 'staging-legacy',
+    'cloud', 'firstwave', 'rad', 'radcloud', 'shop']
+
 from optparse import OptionParser
 import json
 from datetime import datetime
-
-products = ['bronze', 'cloud', 'webstore']
-environments = ['pre-prod', 'production', 'staging', 'cloud', 'firstwave',
-    'rad', 'radcloud', 'shop']
 
 def update_versions(infile, outfile, product, environment, version,
         comment):
