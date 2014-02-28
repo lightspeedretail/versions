@@ -7,8 +7,8 @@
                     "version": "bronze-2014-02-18-1803"
                 },
                 "production": {
-                    "comment": "Deploy production at 2014-02-19-2237",
-                    "version": "bronze-2014-02-18-1803"
+                    "comment": "Deploy production at 2014-02-28-2331",
+                    "version": "bronze-2014-02-28-2032"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-28-2214",
