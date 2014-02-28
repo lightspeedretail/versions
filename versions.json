@@ -11,8 +11,8 @@
                     "version": "bronze-2014-02-18-1803"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-18-1811",
-                    "version": "bronze-2014-02-18-1803"
+                    "comment": "Deploy staging at 2014-02-28-2214",
+                    "version": "bronze-2014-02-28-2032"
                 }
             }
         },
