@@ -32,15 +32,15 @@
                 },
                 "radcloud": {
                     "comment": "",
-                    "version": "cloud-2014-02-27-2231-sprint9"
+                    "version": "cloud-2014-02-28-0046-sprint9"
                 },
                 "shop": {
                     "comment": "",
                     "version": "legacy-2014-02-14-0029-sprint8"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-27-2235",
-                    "version": "cloud-2014-02-27-2231-sprint9"
+                    "comment": "Deploy staging at 2014-02-28-0048",
+                    "version": "cloud-2014-02-28-0046-sprint9"
                 },
                 "staging-legacy": {
                     "comment": "",
