@@ -20,23 +20,23 @@
             "environments": {
                 "cloud": {
                     "comment": "",
-                    "version": "cloud-2014-02-19-1932-sprint8-hotfix"
+                    "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "firstwave": {
                     "comment": "",
-                    "version": "cloud-2014-02-19-1932-sprint8-hotfix"
+                    "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "rad": {
                     "comment": "",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "Deploy radcloud at 2014-02-28-2133",
+                    "comment": "",
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "shop": {
                     "comment": "",
-                    "version": "legacy-2014-02-14-0029-sprint8"
+                    "version": "legacy-2014-02-29-0042-sprint9"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-28-2133",
