@@ -35,8 +35,8 @@
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "shop": {
-                    "comment": "",
-                    "version": "legacy-2014-02-29-0042-sprint9"
+                    "comment": "Deploy shop at 2014-03-05-1729",
+                    "version": "legacy-2014-03-04-0023-sprint9-hotfix"
                 },
                 "staging": {
                     "comment": "Deploy staging at 2014-02-28-2133",
