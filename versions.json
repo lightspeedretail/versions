@@ -52,11 +52,11 @@
             "environments": {
                 "pre-prod": {
                     "comment": "",
-                    "version": "webstore-2014-03-04-2027"
+                    "version": "webstore-2014-03-04-1858"
                 },
                 "production": {
                     "comment": "",
-                    "version": "webstore-2014-03-04-2027"
+                    "version": "webstore-2014-03-04-1858"
                 },
                 "staging": {
                     "comment": "",
