@@ -59,8 +59,8 @@
                     "version": "webstore-2014-03-04-1858"
                 },
                 "staging": {
-                    "comment": "",
-                    "version": "webstore-2014-03-04-1858"
+                    "comment": "Deploy staging at 2014-03-06-1636",
+                    "version": "webstore-2014-03-06-1631"
                 }
             }
         }
