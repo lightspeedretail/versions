@@ -3,15 +3,15 @@
         "bronze": {
             "environments": {
                 "pre-prod": {
-                    "comment": "Deploy pre-prod at 2014-03-06-1524",
+                    "comment": "bronze pre-prod at 2014-03-06-1524",
                     "version": "bronze-2014-02-28-2032"
                 },
                 "production": {
-                    "comment": "Deploy production at 2014-02-28-2331",
+                    "comment": "bronze production at 2014-02-28-2331",
                     "version": "bronze-2014-02-28-2032"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-28-2214",
+                    "comment": "bronze staging at 2014-02-28-2214",
                     "version": "bronze-2014-02-28-2032"
                 }
             }
@@ -19,31 +19,31 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "",
+                    "comment": "cloud cloud",
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "firstwave": {
-                    "comment": "",
+                    "comment": "cloud firstwave",
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "rad": {
-                    "comment": "",
+                    "comment": "cloud rad",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "",
+                    "comment": "cloud radcloud",
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "shop": {
-                    "comment": "Deploy shop at 2014-03-05-1729",
+                    "comment": "cloud shop at 2014-03-05-1729",
                     "version": "legacy-2014-03-04-0023-sprint9-hotfix"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-02-28-2133",
+                    "comment": "cloud staging at 2014-02-28-2133",
                     "version": "cloud-2014-02-28-2051-sprint9"
                 },
                 "staging-legacy": {
-                    "comment": "",
+                    "comment": "cloud staging-legacy",
                     "version": "legacy"
                 }
             }
@@ -51,15 +51,15 @@
         "webstore": {
             "environments": {
                 "pre-prod": {
-                    "comment": "",
+                    "comment": "webstore pre-prod",
                     "version": "webstore-2014-03-04-1858"
                 },
                 "production": {
-                    "comment": "",
+                    "comment": "webstore production",
                     "version": "webstore-2014-03-04-1858"
                 },
                 "staging": {
-                    "comment": "Deploy staging at 2014-03-06-1636",
+                    "comment": "webstore staging at 2014-03-06-1636",
                     "version": "webstore-2014-03-06-1631"
                 }
             }

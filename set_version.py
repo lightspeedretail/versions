@@ -83,8 +83,8 @@ if __name__ == '__main__':
 
     # Sanitize the comment string
     if options.comment is None:
-        options.comment = 'Deploy {} at {}'.format(options.environment,
-            tagtime)
+        options.comment = '{} {} at {}'.format(options.product,
+            options.environment, tagtime)
 
     # Fire off the version and comment string stuff
     update_versions(infile=options.infile, outfile=options.outfile,
