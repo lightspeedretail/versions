@@ -11,8 +11,8 @@
                     "version": "bronze-2014-03-07-2329"
                 },
                 "staging": {
-                    "comment": "bronze staging at 2014-03-12-1438",
-                    "version": "bronze-2014-03-12-1433"
+                    "comment": "bronze staging at 2014-03-14-2010",
+                    "version": "bronze-2014-03-14-2000"
                 }
             }
         },
@@ -43,8 +43,8 @@
                     "version": "cloud-2014-03-17-2305-sprint10"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy",
-                    "version": "legacy"
+                    "comment": "cloud staging-legacy at 2014-03-14-1355",
+                    "version": "legacy-2014-03-14-0521-sprint10"
                 }
             }
         },
@@ -59,8 +59,8 @@
                     "version": "webstore-2014-03-10-1323"
                 },
                 "staging": {
-                    "comment": "webstore staging at 2014-03-12-2119",
-                    "version": "webstore-2014-03-12-2018"
+                    "comment": "webstore staging at 2014-03-14-1912",
+                    "version": "webstore-2014-03-14-1906"
                 }
             }
         }
