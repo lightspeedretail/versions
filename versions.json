@@ -45,6 +45,10 @@
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-03-14-1355",
                     "version": "legacy-2014-03-14-0521-sprint10"
+                },
+                "staging-firstwave": {
+                    "comment": "",
+                    "version": ""
                 }
             }
         },
