@@ -40,11 +40,11 @@ if __name__ == '__main__':
 
     parser.add_option('-i', '--infile', dest='infile',
         type='string', nargs=1, action='store', default='versions.json',
-        help='JSON input file to process')
+        help='(OPTIONAL) JSON input file to process')
 
     parser.add_option('-o', '--outfile', dest='outfile',
         type='string', nargs=1, action='store', default='versions.json',
-        help='JSON output file to process')
+        help='(OPTIONAL) JSON output file to process')
 
     parser.add_option('-p', '--product', dest='product',
         type='string', nargs=1, action='store',
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
     parser.add_option('-c', '--comment', dest='comment',
         type='string', nargs=1, action='store',
-        help='Comment to try to describe the version')
+        help='(OPTIONAL) Comment to try to describe the version')
 
     (options, args) = parser.parse_args()
 
@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
     # Sanitize the version string
     if options.version is None or options.version == '':
-        options.version = '{}-{}'.format(options.environment, tagtime)
+        options.version = '{}-{}'.format(options.product, tagtime)
 
     # Sanitize the comment string
     if options.comment is None:
