@@ -71,12 +71,12 @@
         "webstore": {
             "environments": {
                 "pre-prod": {
-                    "comment": "webstore pre-prod at 2014-03-10-1744",
-                    "version": "webstore-2014-03-10-1323"
+                    "comment": "webstore pre-prod at 2014-04-01-1432",
+                    "version": "webstore-2014-03-31-1544"
                 },
                 "production": {
-                    "comment": "webstore production at 2014-03-31-1706",
-                    "version": "webstore-2014-03-10-1323"
+                    "comment": "webstore production at 2014-04-01-1432",
+                    "version": "webstore-2014-03-31-1544"
                 },
                 "staging": {
                     "comment": "webstore staging at 2014-03-31-2023",
