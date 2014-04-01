@@ -52,6 +52,22 @@
                 }
             }
         },
+        "updater": {
+            "environments": {
+                "pre-prod": {
+                    "comment": "updater pre-prod",
+                    "version": "updater-2014-04-01-1259"
+                },
+                "production": {
+                    "comment": "updater production",
+                    "version": "updater-2014-04-01-1259"
+                },
+                "staging": {
+                    "comment": "updater staging",
+                    "version": "updater-2014-04-01-1259"
+                }
+            }
+        },
         "webstore": {
             "environments": {
                 "pre-prod": {
