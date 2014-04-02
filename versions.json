@@ -3,12 +3,12 @@
         "bronze": {
             "environments": {
                 "pre-prod": {
-                    "comment": "bronze pre-prod at 2014-03-06-1524",
-                    "version": "bronze-2014-03-07-2329"
+                    "comment": "bronze pre-prod at 2014-04-02-2020",
+                    "version": "bronze-2014-04-02-1758"
                 },
                 "production": {
-                    "comment": "bronze production at 2014-02-28-2331",
-                    "version": "bronze-2014-03-07-2329"
+                    "comment": "bronze production at 2014-04-02-2020",
+                    "version": "bronze-2014-04-02-1758"
                 },
                 "staging": {
                     "comment": "bronze staging at 2014-04-02-1803",
