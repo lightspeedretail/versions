@@ -23,8 +23,8 @@
                     "version": "cloud-2014-04-02-2305-sprint10-hotfix6"
                 },
                 "firstwave": {
-                    "comment": "cloud firstwave at 2014-04-02-2055",
-                    "version": "firstwave-2014-04-02-0930-sprint10"
+                    "comment": "cloud firstwave at 2014-04-07-2026",
+                    "version": "firstwave-2014-04-07-1126-sprint10"
                 },
                 "rad": {
                     "comment": "cloud rad",
@@ -43,8 +43,8 @@
                     "version": "cloud-2014-04-04-2112-sprint11"
                 },
                 "staging-firstwave": {
-                    "comment": "cloud staging-firstwave at 2014-04-02-1806",
-                    "version": "firstwave-2014-04-02-0930-sprint10"
+                    "comment": "cloud staging-firstwave at 2014-04-07-2026",
+                    "version": "firstwave-2014-04-07-1126-sprint10"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-03-14-1355",
