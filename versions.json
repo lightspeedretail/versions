@@ -31,8 +31,8 @@
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "cloud radcloud at 2014-04-11-0450",
-                    "version": "cloud-2014-04-11-0009-sprint11"
+                    "comment": "cloud radcloud at 2014-04-16-0455",
+                    "version": "cloud-2014-04-16-0450-sprint11-hotfix1"
                 },
                 "shop": {
                     "comment": "cloud shop at 2014-04-02-2055",
@@ -43,8 +43,8 @@
                     "version": "cloud-2014-04-11-0009-sprint11"
                 },
                 "staging-firstwave": {
-                    "comment": "cloud staging-firstwave at 2014-04-15-2237",
-                    "version": "firstwave-2014-04-15-0402-sprint11"
+                    "comment": "cloud staging-firstwave at 2014-04-16-0456",
+                    "version": "firstwave-2014-04-16-0450-sprint11-hotfix1"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-03-14-1355",
