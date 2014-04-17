@@ -80,7 +80,7 @@
                 },
                 "staging": {
                     "comment": "Jenkins deploy",
-                    "version": "webstore-2014-04-16-1808"
+                    "version": "webstore-2014-04-17-1659"
                 }
             }
         }
