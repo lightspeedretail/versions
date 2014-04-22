@@ -80,7 +80,7 @@
                 },
                 "staging": {
                     "comment": "Webstore to staging done by Jenkins",
-                    "version": "webstore-2014-04-22-0157"
+                    "version": "webstore-2014-04-22-1257"
                 }
             }
         }
