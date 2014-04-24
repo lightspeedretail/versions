@@ -19,8 +19,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-04-21-1638",
-                    "version": "cloud-2014-04-11-0009-sprint11"
+                    "comment": "cloud cloud at 2014-04-24-1627",
+                    "version": "cloud-2014-04-23-1537-sprint11-hotfix2"
                 },
                 "firstwave": {
                     "comment": "cloud firstwave at 2014-04-22-2112",
