@@ -24,3 +24,19 @@ Additional help may be obtained by running it this way:
 or
 
     ./set_version.py -h
+
+
+Setup Instructions for tests
+------------------
+
+OSX
+---
+
+..  note :: These settings will be updated to use the newer python 2.7.5 version in a later commit.
+::
+
+    sudo /usr/bin/easy_install pip
+    sudo /usr/local/bin/pip install virtualenv
+    /usr/local/bin/virtualenv venv --distribute
+    source activate.sh
+    pip install -r requirements.txt

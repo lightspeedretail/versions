@@ -1,1 +1,6 @@
 *.sw?
+*.pyc
+.idea
+test/test_config.ini
+venv
+test/deploy

@@ -1,0 +1,4 @@
+[General]
+workspace=$VERSION_PATH/test/deploy
+repo=$VERSION_PATH
+repoloc=$VERSION_PATH/test/deploy/ver
