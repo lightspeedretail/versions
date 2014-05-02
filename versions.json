@@ -79,8 +79,8 @@
                     "version": "webstore-2014-04-25-1757"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-05-01-1542",
-                    "version": "webstore-2014-05-01-1540"
+                    "comment": "Webstore to staging done by Jenkins 2014-05-02-1500",
+                    "version": "webstore-2014-05-02-1459"
                 }
             }
         }
