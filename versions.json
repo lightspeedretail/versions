@@ -19,7 +19,7 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-05-06-1453",
+                    "comment": "cloud cloud at 2014-05-06-1454",
                     "version": "cloud-2014-05-06-0024-sprint12"
                 },
                 "firstwave": {
@@ -79,8 +79,8 @@
                     "version": "webstore-2014-04-25-1757"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-05-02-1500",
-                    "version": "webstore-2014-05-02-1459"
+                    "comment": "Webstore to staging done by Jenkins 2014-05-06-1455",
+                    "version": "webstore-2014-05-06-1454"
                 }
             }
         }
