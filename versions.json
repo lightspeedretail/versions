@@ -31,16 +31,16 @@
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "cloud radcloud at 2014-05-06-0029",
-                    "version": "cloud-2014-05-06-0024-sprint12"
+                    "comment": "cloud radcloud at 2014-05-07-2049",
+                    "version": "cloud-2014-05-07-2036-sprint12-hotfix2"
                 },
                 "shop": {
                     "comment": "cloud shop at 2014-04-02-2055",
                     "version": "legacy-2014-03-14-0521-sprint10"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-05-06-2030",
-                    "version": "cloud-2014-05-06-1929-sprint12-hotfix1"
+                    "comment": "cloud staging at 2014-05-07-2049",
+                    "version": "cloud-2014-05-07-2036-sprint12-hotfix2"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-04-21-2238",
