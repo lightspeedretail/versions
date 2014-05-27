@@ -8,9 +8,26 @@ description = '''
 This script will sanitize json input while helping to set values.
 '''
 
-products = ['bronze', 'cloud', 'updater', 'webstore']
-environments = ['pre-prod', 'production', 'staging', 'staging-legacy',
-                'staging-firstwave', 'cloud', 'firstwave', 'rad', 'radcloud', 'shop']
+products = [
+    'bronze', 
+    'cloud', 
+    'updater', 
+    'webstore'
+]
+environments = [
+    'pre-prod', 
+    'production', 
+    'staging', 
+    'staging-legacy',
+    'staging-firstwave', 
+    'cloud', 
+    'firstwave', 
+    'rad', 
+    'radcloud', 
+    'shop',
+    'webclient',
+    'webclient-staging'
+]
 
 from optparse import OptionParser
 import json
