@@ -68,6 +68,18 @@
                 }
             }
         },
+        "webclient": {
+            "environments": {
+                "production": {
+                    "comment": "webclient production at 2014-05-27-2010",
+                    "version": "phoenix-2014-05-27-1440-sprint13"
+                },
+                "staging": {
+                    "comment": "cloud webclient-staging at 2014-05-27-2000",
+                    "version": "phoenix-2014-05-27-1440-sprint13"
+                }
+            }
+        },
         "webstore": {
             "environments": {
                 "pre-prod": {
