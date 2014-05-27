@@ -49,6 +49,14 @@
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-03-14-1355",
                     "version": "legacy-2014-03-14-0521-sprint10"
+                },
+                "webclient": {
+                    "comment": "cloud webclient at 2014-05-27-1959",
+                    "version": "phoenix-2014-05-27-1440-sprint13"
+                },
+                "webclient-staging": {
+                    "comment": "cloud webclient-staging at 2014-05-27-2000",
+                    "version": "phoenix-2014-05-27-1440-sprint13"
                 }
             }
         },
