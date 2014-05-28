@@ -19,20 +19,20 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-05-28-1557",
-                    "version": "cloud-2014-05-28-0016-sprint13"
+                    "comment": "cloud cloud at 2014-05-28-2052",
+                    "version": "cloud-2014-05-28-1941-sprint13-hotfix"
                 },
                 "firstwave": {
-                    "comment": "cloud firstwave at 2014-05-28-1558",
-                    "version": "cloud-2014-05-28-0016-sprint13"
+                    "comment": "cloud firstwave at 2014-05-28-2052",
+                    "version": "cloud-2014-05-28-1941-sprint13-hotfix"
                 },
                 "rad": {
                     "comment": "cloud rad",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "cloud radcloud at 2014-05-23-2240",
-                    "version": "cloud-2014-05-23-2157-sprint13"
+                    "comment": "cloud radcloud at 2014-05-28-2052",
+                    "version": "cloud-2014-05-28-1941-sprint13-hotfix"
                 },
                 "shop": {
                     "comment": "cloud shop at 2014-04-02-2055",
