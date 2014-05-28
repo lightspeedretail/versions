@@ -19,12 +19,12 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-05-16-2052",
-                    "version": "cloud-2014-05-16-1933-sprint12-hotfix8"
+                    "comment": "cloud cloud at 2014-05-28-1557",
+                    "version": "cloud-2014-05-28-0016-sprint13"
                 },
                 "firstwave": {
-                    "comment": "cloud firstwave at 2014-05-16-2129",
-                    "version": "cloud-2014-05-16-1933-sprint12-hotfix8"
+                    "comment": "cloud firstwave at 2014-05-28-1558",
+                    "version": "cloud-2014-05-28-0016-sprint13"
                 },
                 "rad": {
                     "comment": "cloud rad",
