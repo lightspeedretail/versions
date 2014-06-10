@@ -83,12 +83,12 @@
         "webstore": {
             "environments": {
                 "pre-prod": {
-                    "comment": "webstore pre-prod at 2014-05-29-1739",
-                    "version": "webstore-2014-05-29-1633"
+                    "comment": "webstore pre-prod at 2014-06-10-1355",
+                    "version": "webstore-2014-06-05-1937"
                 },
                 "production": {
-                    "comment": "webstore production at 2014-05-29-1739",
-                    "version": "webstore-2014-05-29-1633"
+                    "comment": "webstore production at 2014-06-10-1355",
+                    "version": "webstore-2014-06-05-1937"
                 },
                 "staging": {
                     "comment": "Webstore to staging done by Jenkins 2014-06-09-2017",
