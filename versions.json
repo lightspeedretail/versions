@@ -47,8 +47,8 @@
                     "version": "firstwave-2014-04-21-0921"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-03-14-1355",
-                    "version": "legacy-2014-03-14-0521-sprint10"
+                    "comment": "cloud staging-legacy at 2014-06-11-2202",
+                    "version": "legacy"
                 }
             }
         },
@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-05-27-1440-sprint13"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-06-10-2058",
-                    "version": "phoenix-2014-06-10-1613-sprint14"
+                    "comment": "webclient staging at 2014-06-11-2105",
+                    "version": "phoenix-2014-06-11-1703-sprint14"
                 }
             }
         },
@@ -91,8 +91,8 @@
                     "version": "webstore-2014-06-05-1937"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-06-11-1410",
-                    "version": "webstore-2014-06-11-1409"
+                    "comment": "Webstore to staging done by Jenkins 2014-06-12-1547",
+                    "version": "webstore-2014-06-12-1546"
                 }
             }
         }
