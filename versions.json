@@ -52,6 +52,18 @@
                 }
             }
         },
+        "reporting": {
+            "environments": {
+                "production": {
+                    "comment": "HEAD",
+                    "version": "HEAD"
+                },
+                "staging": {
+                    "comment": "HEAD",
+                    "version": "HEAD"
+                }
+            }
+        },
         "updater": {
             "environments": {
                 "pre-prod": {
