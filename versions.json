@@ -23,15 +23,15 @@
                     "version": "cloud-2014-06-16-0540-sprint13-hotfix"
                 },
                 "firstwave": {
-                    "comment": "cloud firstwave at 2014-06-04-1844",
-                    "version": "cloud-2014-06-04-0447-sprint13-hotfix"
+                    "comment": "cloud firstwave at 2014-06-18-2323",
+                    "version": "cloud-2014-06-16-0540-sprint13-hotfix"
                 },
                 "rad": {
                     "comment": "cloud rad",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "cloud radcloud at 2014-06-04-1844",
+                    "comment": "cloud radcloud at 2014-06-18-2322",
                     "version": "cloud-2014-06-04-0447-sprint13-hotfix"
                 },
                 "shop": {
