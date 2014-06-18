@@ -13,7 +13,8 @@ products = [
     'cloud', 
     'updater', 
     'webstore',
-    "webclient"
+    'webclient',
+    'reporting'
 ]
 environments = [
     'pre-prod', 
