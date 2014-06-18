@@ -19,8 +19,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-06-04-1844",
-                    "version": "cloud-2014-06-04-0447-sprint13-hotfix"
+                    "comment": "cloud cloud at 2014-06-18-2303",
+                    "version": "cloud-2014-06-16-0540-sprint13-hotfix"
                 },
                 "firstwave": {
                     "comment": "cloud firstwave at 2014-06-04-1844",
@@ -35,8 +35,8 @@
                     "version": "cloud-2014-06-04-0447-sprint13-hotfix"
                 },
                 "shop": {
-                    "comment": "cloud shop at 2014-04-02-2055",
-                    "version": "legacy-2014-03-14-0521-sprint10"
+                    "comment": "cloud shop at 2014-06-18-2303",
+                    "version": "legacy-2014-06-17-0538-sprint10-hotfix"
                 },
                 "staging": {
                     "comment": "cloud staging at 2014-06-18-2006",
