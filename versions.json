@@ -19,24 +19,24 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-06-19-1601",
-                    "version": "cloud-2014-06-19-0056-sprint14"
+                    "comment": "cloud cloud at 2014-06-19-1801",
+                    "version": "cloud-2014-06-19-1743-sprint14-hotfix"
                 },
                 "firstwave": {
-                    "comment": "cloud firstwave at 2014-06-19-1601",
-                    "version": "cloud-2014-06-19-0056-sprint14"
+                    "comment": "cloud firstwave at 2014-06-19-1801",
+                    "version": "cloud-2014-06-19-1743-sprint14-hotfix"
                 },
                 "rad": {
                     "comment": "cloud rad",
                     "version": "legacy"
                 },
                 "radcloud": {
-                    "comment": "cloud radcloud at 2014-06-19-1602",
-                    "version": "cloud-2014-06-19-0056-sprint14"
+                    "comment": "cloud radcloud at 2014-06-19-1801",
+                    "version": "cloud-2014-06-19-1743-sprint14-hotfix"
                 },
                 "shop": {
-                    "comment": "cloud shop at 2014-06-19-1611",
-                    "version": "legacy-2014-06-13-2309-sprint14"
+                    "comment": "cloud shop at 2014-06-19-1801",
+                    "version": "legacy-2014-06-19-1755-sprint14"
                 },
                 "staging": {
                     "comment": "cloud staging at 2014-06-19-1745",
