@@ -39,16 +39,16 @@
                     "version": "legacy-2014-06-19-2158-sprint14-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-06-19-1931",
-                    "version": "cloud-2014-06-19-1743-sprint14-hotfix"
+                    "comment": "cloud staging at 2014-06-19-2145",
+                    "version": "cloud-2014-06-19-2130-sprint14-hotfix"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-04-21-2238",
                     "version": "firstwave-2014-04-21-0921"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-06-17-2336",
-                    "version": "legacy"
+                    "comment": "cloud staging-legacy at 2014-06-19-2147",
+                    "version": "legacy-2014-06-19-2130-sprint14-hotfix"
                 }
             }
         },
