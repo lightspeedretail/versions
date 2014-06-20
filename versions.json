@@ -55,12 +55,12 @@
         "reporting": {
             "environments": {
                 "production": {
-                    "comment": "reporting production at 2014-06-20-1843",
-                    "version": "reporting-2014-06-20-1819"
+                    "comment": "reporting production at 2014-06-20-1901",
+                    "version": "reporting-2014-06-20-1844"
                 },
                 "staging": {
-                    "comment": "reporting staging at 2014-06-20-1821",
-                    "version": "reporting-2014-06-20-1819"
+                    "comment": "reporting staging at 2014-06-20-1901",
+                    "version": "reporting-2014-06-20-1844"
                 }
             }
         },
