@@ -39,7 +39,7 @@
                     "version": "legacy-2014-06-19-2158-sprint14-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-06-20-0141",
+                    "comment": "cloud staging at 2014-06-20-1723",
                     "version": "cloud-2014-06-19-2130-sprint14-hotfix"
                 },
                 "staging-firstwave": {
@@ -47,7 +47,7 @@
                     "version": "firstwave-2014-04-21-0921"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-06-20-0142",
+                    "comment": "cloud staging-legacy at 2014-06-20-1723",
                     "version": "legacy"
                 }
             }
@@ -87,7 +87,7 @@
                     "version": "phoenix-2014-06-18-1647-sprint14"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-06-20-0142",
+                    "comment": "webclient staging at 2014-06-20-1723",
                     "version": "phoenix-2014-06-18-1647-sprint14"
                 }
             }
