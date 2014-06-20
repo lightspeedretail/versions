@@ -55,8 +55,8 @@
         "reporting": {
             "environments": {
                 "production": {
-                    "comment": "reporting production at 2014-06-19-2328",
-                    "version": "reporting-2014-06-19-2304"
+                    "comment": "reporting production at 2014-06-20-1843",
+                    "version": "reporting-2014-06-20-1819"
                 },
                 "staging": {
                     "comment": "reporting staging at 2014-06-20-1821",
