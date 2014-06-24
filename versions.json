@@ -40,7 +40,7 @@
                 },
                 "staging": {
                     "comment": "cloud staging at 2014-06-24-2333",
-                    "version": "cloud-2014-06-20-1837-sprint14-hotfix"
+                    "version": "cloud-2014-06-24-1824-sprint14-hotfix"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-04-21-2238",
