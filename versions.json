@@ -87,8 +87,8 @@
                     "version": "phoenix-2014-07-09-1823-sprint16"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-07-19-0535",
-                    "version": "phoenix-2014-07-18-1823-sprint16"
+                    "comment": "webclient staging at 2014-07-22-2122",
+                    "version": "phoenix-jetstream"
                 }
             }
         },
