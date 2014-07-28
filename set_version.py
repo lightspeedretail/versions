@@ -2,6 +2,13 @@
 # -*- coding: utf-8 -*-
 # Run this script with a '-h' or '--help' option to get usage and description.
 
+
+from optparse import OptionParser
+import json
+from datetime import datetime
+import sys
+
+
 usage = '''Usage:  %prog [options]'''
 
 description = '''
@@ -28,11 +35,6 @@ environments = [
     'staging-firstwave',
     'staging-legacy',
 ]
-
-from optparse import OptionParser
-import json
-from datetime import datetime
-import sys
 
 
 def update_versions(infile, outfile, product, environment, version,

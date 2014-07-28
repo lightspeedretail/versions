@@ -66,10 +66,6 @@
         },
         "updater": {
             "environments": {
-                "pre-prod": {
-                    "comment": "updater pre-prod",
-                    "version": "updater-2014-04-01-1259"
-                },
                 "production": {
                     "comment": "updater production",
                     "version": "updater-2014-04-01-1259"
@@ -94,10 +90,6 @@
         },
         "webstore": {
             "environments": {
-                "pre-prod": {
-                    "comment": "webstore pre-prod at 2014-07-18-1308",
-                    "version": "webstore-2014-07-17-1919"
-                },
                 "production": {
                     "comment": "webstore production at 2014-07-18-1308",
                     "version": "webstore-2014-07-17-1919"
