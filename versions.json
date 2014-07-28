@@ -39,7 +39,7 @@
                     "version": "legacy-2014-07-02-1749-sprint15"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-07-25-2239",
+                    "comment": "cloud staging at 2014-07-28-1747",
                     "version": "cloud-jetstream"
                 },
                 "staging-firstwave": {
