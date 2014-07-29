@@ -67,12 +67,12 @@
         "updater": {
             "environments": {
                 "production": {
-                    "comment": "updater production",
-                    "version": "updater-2014-04-01-1259"
+                    "comment": "updater production at 2014-07-29-1345",
+                    "version": "updater-2014-07-29-1345"
                 },
                 "staging": {
-                    "comment": "updater staging at 2014-07-18-1810",
-                    "version": "updater-2014-07-18-1802"
+                    "comment": "updater staging at 2014-07-29-1345",
+                    "version": "updater-2014-07-29-1345"
                 }
             }
         },
