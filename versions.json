@@ -2,10 +2,6 @@
     "products": {
         "bronze": {
             "environments": {
-                "pre-prod": {
-                    "comment": "bronze pre-prod at 2014-07-14-1635",
-                    "version": "bronze-2014-06-20-1702"
-                },
                 "production": {
                     "comment": "bronze production at 2014-07-31-1546",
                     "version": "bronze-2014-07-30-2359"

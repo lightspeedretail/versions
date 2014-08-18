@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
 # Run this script with a '-h' or '--help' option to get usage and description.
 
 
@@ -26,7 +27,6 @@ products = [
 environments = [
     'cloud',
     'firstwave',
-    'pre-prod',
     'production',
     'rad',
     'radcloud',
@@ -37,8 +37,7 @@ environments = [
 ]
 
 
-def update_versions(infile, outfile, product, environment, version,
-                    comment):
+def update_versions(infile, outfile, product, environment, version, comment):
     '''Set specific JSON version paylod values'''
 
     versions = _get_json_from_file(infile)
