@@ -35,7 +35,7 @@
                     "version": "legacy-2014-07-29-1747-sprint16"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-08-15-2129",
+                    "comment": "cloud staging at 2014-08-18-1544",
                     "version": "cloud-kepler"
                 },
                 "staging-firstwave": {
@@ -43,7 +43,7 @@
                     "version": "firstwave-2014-04-21-0921"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-08-15-1836",
+                    "comment": "cloud staging-legacy at 2014-08-18-1545",
                     "version": "legacy-kepler"
                 }
             }
@@ -91,8 +91,8 @@
                     "version": "release-3.1.10"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-08-14-1704",
-                    "version": "webstore-2014-08-14-1703"
+                    "comment": "Webstore to staging done by Jenkins 2014-08-18-1413",
+                    "version": "webstore-2014-08-18-1412"
                 }
             }
         }
