@@ -91,8 +91,8 @@
                     "version": "release-3.1.10"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-08-18-1413",
-                    "version": "webstore-2014-08-18-1412"
+                    "comment": "Webstore to staging done by Jenkins 2014-08-19-2118",
+                    "version": "webstore-2014-08-19-2116"
                 }
             }
         }
