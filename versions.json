@@ -87,8 +87,8 @@
         "webstore": {
             "environments": {
                 "production": {
-                    "comment": "webstore production at 2014-08-15-1415",
-                    "version": "release-3.1.10"
+                    "comment": "webstore production at 2014-08-27-1344",
+                    "version": "webstore-2014-08-26-1807"
                 },
                 "staging": {
                     "comment": "Webstore to staging done by Jenkins 2014-08-26-1808",
