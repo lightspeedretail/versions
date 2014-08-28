@@ -1,17 +1,5 @@
 {
     "products": {
-        "pitcher": {
-            "environments": {
-                "production": {
-                    "comment": "initial",
-                    "version": "tbd"
-                },
-                "staging": {
-                    "comment": "initial",
-                    "version": "master"
-                }
-            }
-        },
         "bronze": {
             "environments": {
                 "production": {
@@ -60,6 +48,18 @@
                 }
             }
         },
+        "pitcher": {
+            "environments": {
+                "production": {
+                    "comment": "initial",
+                    "version": "tbd"
+                },
+                "staging": {
+                    "comment": "initial",
+                    "version": "master"
+                }
+            }
+        },
         "reporting": {
             "environments": {
                 "production": {
@@ -91,8 +91,8 @@
                     "version": "phoenix-2014-08-13-1841-sprint17"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-08-13-2156",
-                    "version": "phoenix-2014-08-13-1841-sprint17"
+                    "comment": "webclient staging at 2014-08-28-2111",
+                    "version": "phoenix-2014-08-28-1405-sprint18"
                 }
             }
         },
