@@ -1,5 +1,17 @@
 {
     "products": {
+        "pitcher": {
+            "environments": {
+                "production": {
+                    "comment": "initial",
+                    "version": "tbd"
+                },
+                "staging": {
+                    "comment": "initial",
+                    "version": "master"
+                }
+            }
+        },
         "bronze": {
             "environments": {
                 "production": {
