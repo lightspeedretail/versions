@@ -75,7 +75,7 @@
                     "version": ""
                 }
             }
-        }
+        },
         "pitcher": {
             "environments": {
                 "production": {
