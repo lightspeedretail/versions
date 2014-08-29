@@ -48,6 +48,34 @@
                 }
             }
         },
+        "bluegreen": {
+            "environments": {
+                "cloud-production": {
+                    "comment": "",
+                    "version": ""
+                },
+                "cloud-staging": {
+                    "comment": "",
+                    "version": ""
+                },
+                "production-legacy": {
+                    "comment": "",
+                    "version": ""
+                },
+                "staging-legacy": {
+                    "comment": "",
+                    "version": ""
+                },
+                "webclient": {
+                    "comment": "",
+                    "version": ""
+                },
+                "webclient-staging": {
+                    "comment": "",
+                    "version": ""
+                }
+            }
+        }
         "pitcher": {
             "environments": {
                 "production": {
