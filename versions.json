@@ -47,35 +47,7 @@
                     "version": "legacy-2014-08-20-2012-sprint17"
                 }
             }
-        },
-        "bluegreen": {
-            "environments": {
-                "cloud-production": {
-                    "comment": "",
-                    "version": ""
-                },
-                "cloud-staging": {
-                    "comment": "",
-                    "version": ""
-                },
-                "production-legacy": {
-                    "comment": "",
-                    "version": ""
-                },
-                "staging-legacy": {
-                    "comment": "",
-                    "version": ""
-                },
-                "webclient": {
-                    "comment": "",
-                    "version": ""
-                },
-                "webclient-staging": {
-                    "comment": "",
-                    "version": ""
-                }
-            }
-        },
+        }
         "pitcher": {
             "environments": {
                 "production": {

@@ -23,7 +23,6 @@ products = [
     'updater',
     'webclient',
     'webstore',
-    'bluegreen'
 ]
 environments = [
     'cloud',
