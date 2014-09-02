@@ -19,6 +19,7 @@ This script will sanitize json input while helping to set values.
 products = [
     'bronze',
     'cloud',
+    'pitcher',
     'reporting',
     'updater',
     'webclient',
