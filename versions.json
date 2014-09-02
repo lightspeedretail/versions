@@ -59,8 +59,8 @@
                     "version": "tbd"
                 },
                 "staging": {
-                    "comment": "initial",
-                    "version": "master"
+                    "comment": "pitcher staging at 2014-09-02-1335",
+                    "version": "LCO-1266"
                 }
             }
         },
