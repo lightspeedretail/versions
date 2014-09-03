@@ -39,8 +39,8 @@
                     "version": "legacy-2014-08-20-2012-sprint17"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-09-03-2002",
-                    "version": "cloud-kepler"
+                    "comment": "cloud staging at 2014-09-03-2005",
+                    "version": "cloud-2014-08-26-1753-sprint17-hotfix"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-07-23-0624",
