@@ -48,7 +48,7 @@
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-09-03-1828",
-                    "version": "legacy-lunar"
+                    "version": "legacy"
                 }
             }
         },
