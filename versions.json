@@ -39,8 +39,8 @@
                     "version": "legacy-2014-08-20-2012-sprint17"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-09-03-1852",
-                    "version": "cloud-lunar"
+                    "comment": "cloud staging at 2014-09-03-2002",
+                    "version": "cloud-kepler"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-07-23-0624",
