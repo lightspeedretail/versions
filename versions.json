@@ -47,8 +47,8 @@
                     "version": "cloud-lunar"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-09-05-2354",
-                    "version": "legacy-lunar"
+                    "comment": "cloud staging-legacy at 2014-09-10-1758",
+                    "version": "legacy-kepler"
                 }
             }
         },
