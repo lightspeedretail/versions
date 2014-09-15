@@ -47,8 +47,8 @@
                     "version": "cloud-lunar"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-09-15-1836",
-                    "version": "legacy-lunar"
+                    "comment": "cloud staging-legacy at 2014-09-15-2024",
+                    "version": "legacy-2014-08-20-2012-sprint17"
                 }
             }
         },
