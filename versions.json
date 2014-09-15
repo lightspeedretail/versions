@@ -95,8 +95,8 @@
                     "version": "phoenix-2014-08-13-1841-sprint17"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-09-15-1837",
-                    "version": "phoenix-lunar"
+                    "comment": "webclient staging at 2014-09-15-1906",
+                    "version": "phoenix-kepler"
                 }
             }
         },
