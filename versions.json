@@ -107,8 +107,8 @@
                     "version": "webstore-2014-08-26-1807"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-09-15-1442",
-                    "version": "webstore-2014-09-15-1440"
+                    "comment": "Webstore to staging done by Jenkins 2014-09-15-2042",
+                    "version": "webstore-2014-09-15-2041"
                 }
             }
         }
