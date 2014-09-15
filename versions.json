@@ -22,10 +22,6 @@
                     "comment": "cloud firstwave at 2014-07-30-2131",
                     "version": "cloud-2014-07-30-1934-sprint16-hotfix"
                 },
-                "production": {
-                    "comment": "cloud cloud at 2014-08-26-1811",
-                    "version": "cloud-2014-08-26-1753-sprint17-hotfix"
-                },
                 "rad": {
                     "comment": "cloud rad",
                     "version": "legacy"
