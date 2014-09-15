@@ -43,8 +43,8 @@
                     "version": "cloud-kepler"
                 },
                 "staging-firstwave": {
-                    "comment": "cloud staging-firstwave at 2014-09-05-2015",
-                    "version": "cloud-lunar"
+                    "comment": "cloud staging-firstwave at 2014-09-15-1804",
+                    "version": "cloud-kepler"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-09-15-1804",
