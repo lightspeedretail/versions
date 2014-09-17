@@ -63,8 +63,8 @@
         "reporting": {
             "environments": {
                 "production": {
-                    "comment": "reporting production at 2014-08-25-1740",
-                    "version": "reporting-2014-08-21-1654"
+                    "comment": "reporting production at 2014-09-17-2130",
+                    "version": "reporting-2014-09-16-2109"
                 },
                 "staging": {
                     "comment": "reporting staging at 2014-09-16-2110",
