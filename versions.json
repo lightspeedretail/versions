@@ -91,8 +91,8 @@
                     "version": "phoenix-2014-09-12-1604-sprint18"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-09-25-2046",
-                    "version": "master"
+                    "comment": "webclient staging at 2014-09-29-2030",
+                    "version": "phoenix-2014-09-29-1934-sprint19"
                 }
             }
         },
