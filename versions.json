@@ -35,8 +35,8 @@
                     "version": "legacy-2014-08-20-2012-sprint17"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-09-29-1812",
-                    "version": "master"
+                    "comment": "cloud staging at 2014-09-30-1556",
+                    "version": "cloud-meteor"
                 },
                 "staging-firstwave": {
                     "comment": "cloud staging-firstwave at 2014-09-17-1559",
