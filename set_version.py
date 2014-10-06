@@ -27,13 +27,9 @@ products = [
 ]
 environments = [
     'cloud',
-    'firstwave',
     'production',
-    'rad',
-    'radcloud',
     'shop',
     'staging',
-    'staging-firstwave',
     'staging-legacy',
 ]
 
