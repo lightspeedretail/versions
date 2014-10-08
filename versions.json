@@ -27,8 +27,8 @@
                     "version": "cloud-2014-10-07-1904-sprint19"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-10-08-1608",
-                    "version": "legacy-2014-10-08-1607-sprint19"
+                    "comment": "cloud staging-legacy at 2014-10-08-1759",
+                    "version": "legacy-meteor"
                 }
             }
         },
