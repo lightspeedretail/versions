@@ -8,7 +8,7 @@
                 },
                 "staging": {
                     "comment": "bronze staging at 2014-10-01-1550",
-                    "version": "bronze-meteor"
+                    "version": "bronze-neutron"
                 }
             }
         },
