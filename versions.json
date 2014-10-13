@@ -19,8 +19,8 @@
                     "version": "cloud-2014-09-19-1400-sprint18-hotfix4"
                 },
                 "shop": {
-                    "comment": "cloud shop at 2014-10-10-1826",
-                    "version": "legacy-2014-08-20-2012-sprint17"
+                    "comment": "cloud shop at 2014-10-13-1627",
+                    "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
                     "comment": "cloud staging at 2014-10-10-2216",
