@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-10-03-1340-sprint19"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-10-14-0007",
-                    "version": "master"
+                    "comment": "webclient staging at 2014-10-14-2257",
+                    "version": "phoenix-neutron"
                 }
             }
         },
