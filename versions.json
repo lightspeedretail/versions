@@ -23,7 +23,7 @@
                     "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-10-14-2148",
+                    "comment": "cloud staging at 2014-10-15-1614",
                     "version": "cloud-neutron"
                 },
                 "staging-legacy": {
