@@ -35,8 +35,8 @@
         "pitcher": {
             "environments": {
                 "production": {
-                    "comment": "initial",
-                    "version": "tbd"
+                    "comment": "pitcher production at 2014-10-20-1754",
+                    "version": "pitcher-2014-09-12-2116"
                 },
                 "staging": {
                     "comment": "pitcher staging at 2014-09-12-2119",
