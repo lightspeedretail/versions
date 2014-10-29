@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-10-20-2300-sprint20"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-10-20-2313",
-                    "version": "phoenix-2014-10-20-2300-sprint20"
+                    "comment": "webclient staging at 2014-10-28-2029",
+                    "version": "phoenix-2014-10-28-2000-sprint21"
                 }
             }
         },
@@ -87,8 +87,8 @@
                     "version": "webstore-2014-09-15-2041"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-10-25-2203",
-                    "version": "webstore-2014-10-25-2202"
+                    "comment": "Webstore to staging done by Jenkins 2014-10-29-1753",
+                    "version": "webstore-2014-10-29-1752"
                 }
             }
         }
