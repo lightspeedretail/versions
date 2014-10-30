@@ -35,12 +35,12 @@
         "pitcher": {
             "environments": {
                 "production": {
-                    "comment": "pitcher production at 2014-10-20-2328",
-                    "version": "pitcher-2014-10-20-2321"
+                    "comment": "Sale/SaleLine/LayAway/WorkOrder/SpecialOrder functionality. No customer/update yet",
+                    "version": "pitcher-2014-10-30-1654"
                 },
                 "staging": {
-                    "comment": "pitcher staging at 2014-10-20-2328",
-                    "version": "pitcher-2014-10-20-2321"
+                    "comment": "Sale/SaleLine/LayAway/WorkOrder/SpecialOrder functionality. No customer/update yet",
+                    "version": "pitcher-2014-10-30-1654"
                 }
             }
         },
