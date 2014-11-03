@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-10-20-2300-sprint20"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-10-31-2007",
-                    "version": "phoenix-2014-10-31-2000-sprint21"
+                    "comment": "webclient staging at 2014-11-03-1925",
+                    "version": "CLD-phoenix-neutron-cfd-hotfix"
                 }
             }
         },
