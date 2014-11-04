@@ -39,8 +39,8 @@
                     "version": "pitcher-2014-10-30-1654"
                 },
                 "staging": {
-                    "comment": "Sale/SaleLine/LayAway/WorkOrder/SpecialOrder functionality. No customer/update yet",
-                    "version": "pitcher-2014-10-30-1654"
+                    "comment": "pitcher-neutron-cfd",
+                    "version": "pitcher-neutron-cfd"
                 }
             }
         },
