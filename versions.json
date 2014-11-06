@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-10-20-2300-sprint20"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-11-05-2327",
-                    "version": "phoenix-orbit"
+                    "comment": "webclient staging at 2014-11-06-2316",
+                    "version": "CLD-2308-marionette-upgrade"
                 }
             }
         },
