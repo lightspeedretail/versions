@@ -23,8 +23,8 @@
                     "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-11-05-2049",
-                    "version": "cloud-orbit"
+                    "comment": "cloud staging at 2014-11-07-1744",
+                    "version": "cloud-2014-11-07-1741-sprint21"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-10-08-1802",
@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-10-20-2300-sprint20"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-11-03-2325",
-                    "version": "CLD-phoenix-neutron-cfd-hotfix"
+                    "comment": "webclient staging at 2014-11-08-0111",
+                    "version": "phoenix-2014-11-07-2410-sprint21"
                 }
             }
         },
@@ -87,8 +87,8 @@
                     "version": "webstore-2014-09-15-2041"
                 },
                 "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2014-11-05-1813",
-                    "version": "webstore-2014-11-05-1812"
+                    "comment": "Webstore to staging done by Jenkins 2014-11-06-0004",
+                    "version": "webstore-2014-11-06-0002"
                 }
             }
         }
