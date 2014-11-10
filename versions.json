@@ -15,8 +15,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2014-11-03-1852",
-                    "version": "cloud-2014-10-31-1547-sprint20-hotfix3"
+                    "comment": "cloud cloud at 2014-11-10-1410",
+                    "version": "cloud-2014-11-07-1741-sprint21"
                 },
                 "shop": {
                     "comment": "cloud shop at 2014-10-13-1627",
