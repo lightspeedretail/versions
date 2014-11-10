@@ -39,8 +39,8 @@
                     "version": "pitcher-2014-10-30-1654"
                 },
                 "staging": {
-                    "comment": "pitcher-neutron-cfd",
-                    "version": "pitcher-neutron-cfd"
+                    "comment": "pitcher orbit RC",
+                    "version": "pitcher-2014-11-10-2008"
                 }
             }
         },
