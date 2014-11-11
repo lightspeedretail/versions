@@ -3,8 +3,8 @@
         "bronze": {
             "environments": {
                 "production": {
-                    "comment": "bronze production at 2014-10-27-1742",
-                    "version": "bronze-2014-10-03-2228"
+                    "comment": "bronze orbit RC with WS 10s delay fix",
+                    "version": "bronze-2014-11-11-1919"
                 },
                 "staging": {
                     "comment": "bronze-orbit branch cut from master",
