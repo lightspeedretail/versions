@@ -23,8 +23,8 @@
                     "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-11-11-2128",
-                    "version": "master"
+                    "comment": "cloud staging at 2014-11-11-2202",
+                    "version": "cloud-2014-11-07-1741-sprint21"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-10-08-1802",
