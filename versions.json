@@ -75,7 +75,7 @@
                     "version": "phoenix-2014-11-07-2410-sprint21"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-11-12-1815",
+                    "comment": "webclient staging at 2014-11-14-0213",
                     "version": "master"
                 }
             }
