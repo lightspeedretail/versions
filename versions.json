@@ -75,8 +75,8 @@
                     "version": "phoenix-2014-11-14-2130-sprint22"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2014-11-18-2041",
-                    "version": "phoenix-2014-11-18-1935-sprint22-hotfix"
+                    "comment": "webclient staging at 2014-11-19-1818",
+                    "version": "phoenix-2014-11-19-1715-sprint22-hotfix"
                 }
             }
         },
