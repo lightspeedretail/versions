@@ -23,8 +23,8 @@
                     "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-12-13-0037",
-                    "version": "master"
+                    "comment": "cloud staging at 2014-12-16-2237",
+                    "version": "CLD-3857-Customer-DB-Caching-2"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-10-08-1802",
