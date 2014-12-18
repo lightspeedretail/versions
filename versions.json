@@ -24,7 +24,7 @@
                 },
                 "staging": {
                     "comment": "cloud staging at 2014-12-18-0038",
-                    "version": "master"
+                    "version": "cloud-redshift"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-12-18-0036",
