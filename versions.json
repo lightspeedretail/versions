@@ -23,8 +23,8 @@
                     "version": "legacy-2014-10-08-1630-sprint19"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2014-12-18-0037",
-                    "version": "cloud-redshift"
+                    "comment": "cloud staging at 2014-12-18-0038",
+                    "version": "master"
                 },
                 "staging-legacy": {
                     "comment": "cloud staging-legacy at 2014-12-18-0036",
