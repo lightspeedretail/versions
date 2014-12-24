@@ -27,7 +27,7 @@
                     "version": "cloud-redshift"
                 },
                 "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-12-18-1923",
+                    "comment": "cloud staging-legacy at 2014-12-24-2204",
                     "version": "legacy-meteor"
                 }
             }
