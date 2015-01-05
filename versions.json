@@ -39,8 +39,8 @@
                     "version": "pitcher-2014-11-11-1607"
                 },
                 "staging": {
-                    "comment": "pitcher orbit RC with logging",
-                    "version": "pitcher-2014-11-11-1607"
+                    "comment": "pitcher Redshift RC",
+                    "version": "pitcher-2015-01-05-2158"
                 }
             }
         },
