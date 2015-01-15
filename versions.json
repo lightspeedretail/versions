@@ -7,8 +7,8 @@
                     "version": "bronze-2014-11-11-1919"
                 },
                 "staging": {
-                    "comment": "bronze-orbit branch cut from master",
-                    "version": "bronze-orbit"
+                    "comment": "bronze staging at 2015-01-15-1713",
+                    "version": "bronze-2015-01-15-1704-staging-sprint25"
                 }
             }
         },
