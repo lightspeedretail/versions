@@ -18,17 +18,9 @@
                     "comment": "cloud cloud at 2015-01-22-1505",
                     "version": "cloud-2015-01-20-2100-sprint24-hotfix2"
                 },
-                "shop": {
-                    "comment": "cloud shop at 2014-10-13-1627",
-                    "version": "legacy-2014-10-08-1630-sprint19"
-                },
                 "staging": {
                     "comment": "cloud staging at 2015-01-28-2042",
                     "version": "cloud-starburst"
-                },
-                "staging-legacy": {
-                    "comment": "cloud staging-legacy at 2014-12-24-2204",
-                    "version": "legacy-meteor"
                 }
             }
         },
