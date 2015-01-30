@@ -26,9 +26,7 @@ products = [
 environments = [
     'cloud',
     'production',
-    'shop',
     'staging',
-    'staging-legacy',
     'wsr_production',
     'wsr_staging',
 ]
