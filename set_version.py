@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 # Run this script with a '-h' or '--help' option to get usage and description.
 
@@ -21,7 +20,6 @@ products = [
     'cloud',
     'pitcher',
     'reporting',
-    'updater',
     'webclient',
     'webstore',
 ]
@@ -31,10 +29,13 @@ environments = [
     'shop',
     'staging',
     'staging-legacy',
+    'wsr_production',
+    'wsr_staging',
 ]
 
 
 def update_versions(infile, outfile, product, environment, version, comment):
+
     '''Set specific JSON version paylod values'''
 
     versions = _get_json_from_file(infile)
@@ -52,14 +53,17 @@ def update_versions(infile, outfile, product, environment, version, comment):
 
 
 def _get_json_from_file(filename):
+
     '''Parse a json file to get a dictionary'''
 
     with open(filename, 'r') as filehandle:
         versions = json.load(filehandle)
+
     return versions
 
 
 def get_version(infile, product, environment):
+
     '''Parse a json file to get a dictionary'''
 
     versions = _get_json_from_file(infile)
@@ -68,6 +72,7 @@ def get_version(infile, product, environment):
 
 
 def parse_args(argv):
+
     '''Process command-line arguments'''
 
     parser = OptionParser(usage=usage, description=description)
@@ -128,6 +133,7 @@ def parse_args(argv):
 
 
 def do_work(options):
+
     '''Fire off the version and comment string stuff'''
 
     if options.get == 0:
@@ -141,14 +147,17 @@ def do_work(options):
 
 
 def main(argv=None):
+
     '''main() flow.  Parse arguments and execute appropriate actions'''
 
     if argv is None:
         argv = sys.argv
 
     (options, args) = parse_args(argv)
+
     do_work(options)
 
 
 if __name__ == '__main__':
+
     sys.exit(main())

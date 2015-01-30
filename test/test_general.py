@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-from set_version import update_versions, parse_args, do_work, get_version, _get_json_from_file
+from set_version import (update_versions, parse_args, do_work, get_version,
+    _get_json_from_file)
 import pytest
 import subprocess
 import os
@@ -11,7 +11,7 @@ class TestGeneral(object):
         verfolder = verrepo.working_dir
         retr = subprocess.call([os.path.expandvars('$VERSION_PATH')+'/set_version.py',
                                '--product=webstore',
-                               '--environment=staging',
+                               '--environment=wsr_staging',
                                '--version=' + 'taggy_tag',
                                '--comment=' + 'life is bad',
                                '--infile=' + verfolder + '/versions.json',
@@ -24,7 +24,7 @@ class TestGeneral(object):
         verfolder = verrepo.working_dir
         retr = subprocess.check_output([os.path.expandvars('$VERSION_PATH')+'/set_version.py',
                                         '--product=webstore',
-                                        '--environment=staging',
+                                        '--environment=wsr_staging',
                                         '--infile=' + verfolder + '/versions.json',
                                         '--get=1'], cwd=verfolder)
         assert 'webstore' in retr
@@ -35,7 +35,7 @@ class TestGeneral(object):
         verfolder = verrepo.working_dir
         ver = get_version(infile=verfolder + '/versions.json',
                           product='webstore',
-                          environment='staging')
+                          environment='wsr_staging')
         assert len(verrepo.head.commit.diff(None)) == 0
         assert 'webstore' in ver  # crappy validation since the file changes
 
@@ -45,7 +45,7 @@ class TestGeneral(object):
         update_versions(infile=verfolder + '/versions.json',
                         outfile=verfolder + '/versions.json',
                         product='webstore',
-                        environment='staging',
+                        environment='wsr_staging',
                         version='thisismytag',
                         comment='this is my comment')
 
@@ -55,7 +55,7 @@ class TestGeneral(object):
     def test_parseargsSet(self, longargset):
         (options, argv) = parse_args(longargset)
         assert options.product == 'webstore'
-        assert options.environment == 'staging'
+        assert options.environment == 'wsr_staging'
         assert options.version == 'taggy_tag'
         assert options.comment == 'life is bad'
         assert options.infile == 'versions.json'
@@ -65,7 +65,7 @@ class TestGeneral(object):
     def test_parseargshortSet(self, shortargset):
         (options, argv) = parse_args(shortargset)
         assert options.product == 'webstore'
-        assert options.environment == 'staging'
+        assert options.environment == 'wsr_staging'
         assert options.version == 'taggy_tag'
         assert options.comment == 'life is bad'
         assert options.infile == 'versions.json'
@@ -84,7 +84,7 @@ class TestGeneral(object):
     def test_parseargsGet(self, longargget):
         (options, argv) = parse_args(longargget)
         assert options.product == 'webstore'
-        assert options.environment == 'staging'
+        assert options.environment == 'wsr_staging'
         assert 'webstore' in options.version
         assert 'webstore' in options.comment
         assert options.infile == 'versions.json'
@@ -107,7 +107,7 @@ class TestGeneral(object):
     @pytest.fixture()
     def longargset(self):
         arguments = ['--product=webstore',
-                     '--environment=staging',
+                     '--environment=wsr_staging',
                      '--version=taggy_tag',
                      '--comment=life is bad',
                      '--infile=versions.json',
@@ -117,7 +117,7 @@ class TestGeneral(object):
     @pytest.fixture()
     def longargget(self):
         arguments = ['--product=webstore',
-                     '--environment=staging',
+                     '--environment=wsr_staging',
                      '--infile=versions.json',
                      '--get=1']
         return arguments
@@ -125,7 +125,7 @@ class TestGeneral(object):
     @pytest.fixture()
     def shortargset(self):
         arguments = ['-pwebstore',
-                     '-estaging',
+                     '-ewsr_staging',
                      '-vtaggy_tag',
                      '-clife is bad',
                      '-iversions.json',

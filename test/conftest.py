@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from ConfigParser import SafeConfigParser
 import os
 from UserDict import UserDict
