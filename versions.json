@@ -63,8 +63,8 @@
                     "version": "phoenix-2015-01-05-1845-sprint24"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-01-30-0410",
-                    "version": "phoenix-starburst"
+                    "comment": "webclient staging at 2015-01-30-2354",
+                    "version": "phoenix-2015-01-30-2230-sprint25"
                 }
             }
         },
