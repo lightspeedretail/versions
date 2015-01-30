@@ -19,8 +19,8 @@
                     "version": "cloud-2015-01-20-2100-sprint24-hotfix2"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-01-30-0259",
-                    "version": "CLD-4115-pinback-test-1"
+                    "comment": "cloud staging at 2015-01-30-0410",
+                    "version": "cloud-starburst"
                 }
             }
         },
