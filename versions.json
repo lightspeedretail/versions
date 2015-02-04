@@ -27,8 +27,8 @@
                     "version": "cloud-2015-02-02-1613-sprint25"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-02-04-1822",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-02-04-2139",
+                    "version": "cloud-starburst"
                 }
             }
         },
