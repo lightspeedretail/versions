@@ -63,8 +63,8 @@
                     "version": "phoenix-2015-01-30-2330-sprint25"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-01-31-0036",
-                    "version": "phoenix-2015-01-30-2330-sprint25"
+                    "comment": "webclient staging at 2015-02-06-1421",
+                    "version": "master"
                 }
             }
         },
