@@ -27,8 +27,8 @@
                     "version": "cloud-2015-02-04-2304-sprint25-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-02-06-1421",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-02-06-1617",
+                    "version": "cloud-2015-02-06-1615-sprint25-hotfix"
                 }
             }
         },
