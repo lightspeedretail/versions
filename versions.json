@@ -79,8 +79,8 @@
                     "version": "webstore-2015-01-28-2047"
                 },
                 "wsr_production": {
-                    "comment": "webstore production at 2014-11-20-1030",
-                    "version": "webstore-2014-11-19-2047"
+                    "comment": "webstore wsr_production at 2015-02-12-1915",
+                    "version": "webstore-2015-02-11-2202"
                 },
                 "wsr_staging": {
                     "comment": "Webstore to staging done by Jenkins 2015-02-11-2203",
