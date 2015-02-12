@@ -2,14 +2,6 @@
     "products": {
         "bronze": {
             "environments": {
-                "production": {
-                    "comment": "bronze orbit RC with WS 10s delay fix",
-                    "version": "bronze-2014-11-11-1919"
-                },
-                "staging": {
-                    "comment": "bronze staging at 2015-01-23-2114",
-                    "version": "bronze-2015-01-23-1946-staging-sprint25"
-                },
                 "wsr_production": {
                     "comment": "bronze wsr_production at 2015-02-12-1922",
                     "version": "bronze-2015-01-23-1946"
@@ -70,14 +62,6 @@
         },
         "webstore": {
             "environments": {
-                "production": {
-                    "comment": "webstore production at 2014-11-20-1030",
-                    "version": "webstore-2014-11-19-2047"
-                },
-                "staging": {
-                    "comment": "Webstore to staging done by Jenkins 2015-01-28-2048",
-                    "version": "webstore-2015-01-28-2047"
-                },
                 "wsr_production": {
                     "comment": "webstore wsr_production at 2015-02-12-1915",
                     "version": "webstore-2015-02-11-2202"
