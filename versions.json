@@ -11,8 +11,8 @@
                     "version": "bronze-2015-01-23-1946-staging-sprint25"
                 },
                 "wsr_production": {
-                    "comment": "bronze orbit RC with WS 10s delay fix",
-                    "version": "bronze-2014-11-11-1919"
+                    "comment": "bronze wsr_production at 2015-02-12-1922",
+                    "version": "bronze-2015-01-23-1946"
                 },
                 "wsr_staging": {
                     "comment": "bronze staging at 2015-01-23-2114",
