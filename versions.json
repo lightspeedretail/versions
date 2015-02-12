@@ -27,8 +27,8 @@
                     "version": "cloud-2015-02-10-0105"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-02-11-1851",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-02-12-1420",
+                    "version": "cloud-starburst"
                 }
             }
         },
