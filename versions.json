@@ -19,8 +19,8 @@
                     "version": "cloud-2015-02-10-0105"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-02-17-1600",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-02-18-1513",
+                    "version": "cloud-tachyon"
                 }
             }
         },
