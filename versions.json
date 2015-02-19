@@ -27,8 +27,8 @@
         "pitcher": {
             "environments": {
                 "production": {
-                    "comment": "pitcher orbit RC with logging",
-                    "version": "pitcher-2014-11-11-1607"
+                    "comment": "pitcher production at 2015-02-19-2002",
+                    "version": "pitcher-2015-02-19-1958"
                 },
                 "staging": {
                     "comment": "pitcher Redshift RC",
