@@ -37,6 +37,6 @@ OSX
 
     sudo /usr/bin/easy_install pip
     sudo /usr/local/bin/pip install virtualenv
-    /usr/local/bin/virtualenv venv --distribute
+    /usr/local/bin/virtualenv venv
     source activate.sh
     pip install -r requirements.txt
