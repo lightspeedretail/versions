@@ -19,8 +19,8 @@
                     "version": "cloud-2015-02-24-2142-sprint26"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-02-24-1720",
-                    "version": "cloud-tachyon"
+                    "comment": "cloud staging at 2015-02-25-1549",
+                    "version": "master"
                 }
             }
         },
