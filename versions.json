@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-02-24-2150-sprint26"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-03-06-2326",
-                    "version": "master"
+                    "comment": "webclient staging at 2015-03-09-2058",
+                    "version": "phoenix-ultraviolet"
                 }
             }
         },
