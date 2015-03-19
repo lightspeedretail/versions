@@ -19,8 +19,8 @@
                     "version": "cloud-2015-03-17-1813-sprint27"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-03-19-1713",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-03-19-2245",
+                    "version": "cloud-ultraviolet"
                 }
             }
         },
