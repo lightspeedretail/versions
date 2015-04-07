@@ -51,8 +51,8 @@
         "webclient": {
             "environments": {
                 "production": {
-                    "comment": "webclient production at 2015-03-17-0241",
-                    "version": "phoenix-2015-03-16-2108-sprint27"
+                    "comment": "webclient production at 2015-04-07-2310",
+                    "version": "phoenix-2015-04-07-1701-sprint28"
                 },
                 "staging": {
                     "comment": "webclient staging at 2015-04-07-1602",
