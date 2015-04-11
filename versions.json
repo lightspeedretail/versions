@@ -19,8 +19,8 @@
                     "version": "cloud-2015-04-07-2200-sprint28"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-04-10-2306",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-04-11-2007",
+                    "version": "CLD-4478-syslog-to-logstash"
                 }
             }
         },
