@@ -19,8 +19,8 @@
                     "version": "cloud-Vulcan-2015-04-14-1451"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-04-14-1440",
-                    "version": "cloud-Vulcan-2015-04-14-1451"
+                    "comment": "cloud staging at 2015-04-15-1845",
+                    "version": "master"
                 }
             }
         },
