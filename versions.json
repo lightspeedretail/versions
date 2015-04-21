@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-04-07-1701-sprint28"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-04-20-1800",
-                    "version": "master"
+                    "comment": "webclient staging at 2015-04-21-1335",
+                    "version": "phoenix-wormhole"
                 }
             }
         },
