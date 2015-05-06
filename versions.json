@@ -19,8 +19,8 @@
                     "version": "cloud-2015-05-05-1645-sprint30"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-05-01-1845",
-                    "version": "cloud-wormhole2"
+                    "comment": "cloud staging at 2015-05-06-1347",
+                    "version": "master"
                 }
             }
         },
