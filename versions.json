@@ -19,8 +19,8 @@
                     "version": "cloud-2015-05-08-2238-Wormhole2"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-05-08-1733",
-                    "version": "cloud-xray1"
+                    "comment": "cloud staging at 2015-05-11-2041",
+                    "version": "master"
                 }
             }
         },
