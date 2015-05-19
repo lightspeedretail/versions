@@ -19,8 +19,8 @@
                     "version": "cloud-2015-05-15-2208-sprint30"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-05-11-2107",
-                    "version": "cloud-xray1"
+                    "comment": "cloud staging at 2015-05-19-1413",
+                    "version": "master"
                 }
             }
         },
