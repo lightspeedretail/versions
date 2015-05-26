@@ -19,7 +19,7 @@
                     "version": "cloud-2015-05-15-2208-sprint30"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-05-26-1308",
+                    "comment": "cloud staging at 2015-05-26-1810",
                     "version": "cloud-xray2"
                 }
             }
@@ -67,8 +67,8 @@
                     "version": "webstore-2015-05-15-1249"
                 },
                 "wsr_staging": {
-                    "comment": "Webstore to staging done by Jenkins 2015-05-21-1811",
-                    "version": "webstore-2015-05-21-1809"
+                    "comment": "Webstore to staging done by Jenkins 2015-05-26-1601",
+                    "version": "webstore-2015-05-26-1559"
                 }
             }
         }
