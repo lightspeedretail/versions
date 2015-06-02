@@ -19,8 +19,8 @@
                     "version": "cloud-2015-05-28-2430-sprint30-hotfix1"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-06-02-1452",
-                    "version": "cloud-zodiak1"
+                    "comment": "cloud staging at 2015-06-02-1502",
+                    "version": "master"
                 }
             }
         },
