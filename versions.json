@@ -19,8 +19,8 @@
                     "version": "cloud-2015-06-10-1418"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-06-10-1304",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-06-10-2314",
+                    "version": "cloud-zodiac2"
                 }
             }
         },
