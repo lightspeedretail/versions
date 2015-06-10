@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-05-15-2211-sprint30"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-06-10-1304",
-                    "version": "master"
+                    "comment": "webclient staging at 2015-06-10-2314",
+                    "version": "phoenix-zodiac2"
                 }
             }
         },
