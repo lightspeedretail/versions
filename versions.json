@@ -15,8 +15,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2015-06-16-1925",
-                    "version": "cloud-zodiac2"
+                    "comment": "cloud cloud at 2015-06-16-2027",
+                    "version": "cloud-2015-06-11-2200-sprint31-hotfix1"
                 },
                 "staging": {
                     "comment": "cloud staging at 2015-06-16-1944",
