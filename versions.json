@@ -15,8 +15,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2015-06-16-2027",
-                    "version": "cloud-2015-06-11-2200-sprint31-hotfix1"
+                    "comment": "cloud cloud at 2015-06-18-2025",
+                    "version": "cloud-2015-06-18-1149-sprint31"
                 },
                 "staging": {
                     "comment": "cloud staging at 2015-06-17-2014",
@@ -51,8 +51,8 @@
         "webclient": {
             "environments": {
                 "production": {
-                    "comment": "webclient production at 2015-05-18-1633",
-                    "version": "phoenix-2015-05-15-2211-sprint30"
+                    "comment": "webclient production at 2015-06-18-2026",
+                    "version": "phoenix-2015-06-18-1150-sprint31"
                 },
                 "staging": {
                     "comment": "webclient staging at 2015-06-17-2014",
