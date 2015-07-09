@@ -15,8 +15,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2015-07-08-2020",
-                    "version": "cloud-2015-07-08-1543-armstrong"
+                    "comment": "cloud cloud at 2015-07-09-0345",
+                    "version": "cloud-2015-07-08-2045-armstrong"
                 },
                 "staging": {
                     "comment": "cloud staging at 2015-07-08-1946",
