@@ -15,8 +15,8 @@
         "cloud": {
             "environments": {
                 "cloud": {
-                    "comment": "cloud cloud at 2015-07-15-2153",
-                    "version": "em-con-change"
+                    "comment": "cloud cloud at 2015-07-16-0039",
+                    "version": "cloud-2015-07-15-2435-hotfix"
                 },
                 "staging": {
                     "comment": "cloud staging at 2015-07-14-2029",
