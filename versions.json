@@ -7,8 +7,8 @@
                     "version": "bronze-2015-06-22-1928"
                 },
                 "wsr_staging": {
-                    "comment": "bronze wsr_staging at 2015-06-22-1930",
-                    "version": "bronze-2015-06-22-1928"
+                    "comment": "bronze wsr_staging at 2015-07-24-1439",
+                    "version": "bronze-2015-07-24-1433"
                 }
             }
         },
@@ -19,8 +19,8 @@
                     "version": "cloud-2015-07-15-2435-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-07-20-1643",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-07-24-1550",
+                    "version": "cloud-armstrong"
                 }
             }
         },
@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-07-08-1210-armstrong"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-07-20-1643",
-                    "version": "master"
+                    "comment": "webclient staging at 2015-07-24-1550",
+                    "version": "phoenix-armstrong"
                 }
             }
         },
