@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-07-08-1210-armstrong"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-07-23-1536",
-                    "version": "master"
+                    "comment": "webclient staging at 2015-07-24-1550",
+                    "version": "phoenix-armstrong"
                 }
             }
         },
