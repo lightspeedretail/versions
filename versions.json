@@ -67,8 +67,8 @@
                     "version": "webstore-2015-06-22-1607"
                 },
                 "wsr_staging": {
-                    "comment": "Webstore to staging done by Jenkins 2015-07-17-1756",
-                    "version": "webstore-2015-07-17-1755"
+                    "comment": "Webstore to staging done by Jenkins 2015-07-31-1351",
+                    "version": "webstore-2015-07-31-1350"
                 }
             }
         }
