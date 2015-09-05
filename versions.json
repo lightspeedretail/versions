@@ -19,8 +19,8 @@
                     "version": "cloud-2015-09-02-2100-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-09-03-2024",
-                    "version": "CLD-7442-Allow-Item-Imports-To-Be-Blocked"
+                    "comment": "cloud staging at 2015-09-05-0515",
+                    "version": "cloud-2015-09-02-2100-hotfix"
                 }
             }
         },
