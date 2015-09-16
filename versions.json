@@ -19,8 +19,8 @@
                     "version": "cloud-2015-09-14-1719-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-09-14-1721",
-                    "version": "cloud-2015-09-14-1719-hotfix"
+                    "comment": "cloud staging at 2015-09-16-1543",
+                    "version": "cloud-armstrong-HF16"
                 }
             }
         },
