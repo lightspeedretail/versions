@@ -19,8 +19,8 @@
                     "version": "cloud-2015-09-21-1411-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-09-23-1423",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-09-23-1538",
+                    "version": "cloud-scaling-18"
                 }
             }
         },
