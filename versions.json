@@ -19,8 +19,8 @@
                     "version": "cloud-2015-09-23-2220-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-09-23-1653",
-                    "version": "cloud-scaling-18"
+                    "comment": "cloud staging at 2015-09-24-1341",
+                    "version": "CLD-7637-bs_cust_customer.getDBInfo"
                 }
             }
         },
