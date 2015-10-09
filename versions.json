@@ -19,8 +19,8 @@
                     "version": "cloud-2015-10-06-2140-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-10-07-2110",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-10-09-1256",
+                    "version": "CLD-7791-Orphan-payment-job-dies-in-prod"
                 }
             }
         },
