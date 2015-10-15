@@ -19,8 +19,8 @@
                     "version": "cloud-2015-10-06-2140-hotfix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-10-14-2245",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-10-15-1127",
+                    "version": "CLD-7765-sessions-race-condition"
                 }
             }
         },
