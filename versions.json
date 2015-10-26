@@ -19,8 +19,8 @@
                     "version": "cloud-2015-21-2141-scaling22.1"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-10-23-1803",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-10-26-1338",
+                    "version": "CLD-7938-Hook-customer-repository-to-gui-defs"
                 }
             }
         },
