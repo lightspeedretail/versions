@@ -19,8 +19,8 @@
                     "version": "cloud-2015-21-2141-scaling22.1"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-10-26-1946",
-                    "version": "master"
+                    "comment": "cloud staging at 2015-10-27-1308",
+                    "version": "cloud-scaling-23"
                 }
             }
         },
