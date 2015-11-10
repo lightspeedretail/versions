@@ -55,8 +55,8 @@
                     "version": "phoenix-2015-11-10-2230-scaling-25"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2015-11-09-1918",
-                    "version": "webclient-scaling-25"
+                    "comment": "webclient staging at 2015-11-10-2341",
+                    "version": "phoenix-2015-11-10-2230-scaling-25"
                 }
             }
         },
