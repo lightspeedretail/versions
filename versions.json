@@ -3,8 +3,8 @@
         "bronze": {
             "environments": {
                 "wsr_production": {
-                    "comment": "bronze wsr_production at 2015-10-14-1707",
-                    "version": "bronze-2015-10-13-1737"
+                    "comment": "bronze wsr_production at 2015-11-12-1619",
+                    "version": "bronze-2015-10-28-1451"
                 },
                 "wsr_staging": {
                     "comment": "bronze wsr_staging at 2015-10-28-1459",
