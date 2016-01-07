@@ -19,8 +19,8 @@
                     "version": "cloud-2015-11-25-1447-cacheFix"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2015-11-23-1758",
-                    "version": "cloud-scaling-26"
+                    "comment": "cloud staging at 2016-01-07-1352",
+                    "version": "retail-20160106-1336"
                 }
             }
         },
