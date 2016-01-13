@@ -63,12 +63,12 @@
         "webstore": {
             "environments": {
                 "wsr_production": {
-                    "comment": "webstore wsr_production at 2015-09-30-1706",
-                    "version": "webstore-2015-09-30-1706"
+                    "comment": "webstore wsr_production at 2016-01-13-1403",
+                    "version": "webstore-2016-01-12-0952"
                 },
                 "wsr_staging": {
-                    "comment": "Webstore to staging done by Jenkins 2015-12-14-2101",
-                    "version": "webstore-2015-12-14-2100"
+                    "comment": "webstore wsr_staging at 2016-01-13-1408",
+                    "version": "webstore-2016-01-12-0952"
                 }
             }
         }
