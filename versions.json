@@ -63,12 +63,12 @@
         "webstore": {
             "environments": {
                 "wsr_production": {
-                    "comment": "webstore wsr_production at 2016-01-13-1403",
-                    "version": "webstore-2016-01-12-0952"
+                    "comment": "webstore wsr_production at 2016-01-14-1354",
+                    "version": "webstore-2016-01-13-1700"
                 },
                 "wsr_staging": {
-                    "comment": "webstore wsr_staging at 2016-01-13-1408",
-                    "version": "webstore-2016-01-12-0952"
+                    "comment": "webstore wsr_staging at 2016-01-14-1354",
+                    "version": "webstore-2016-01-13-1700"
                 }
             }
         }
