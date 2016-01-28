@@ -19,8 +19,8 @@
                     "version": "retail-2016-2-2016-01-27-1426"
                 },
                 "staging": {
-                    "comment": "cloud staging at 2016-01-07-1803",
-                    "version": "master"
+                    "comment": "cloud staging at 2016-01-28-2207",
+                    "version": "retail-20160128-1406"
                 }
             }
         },
