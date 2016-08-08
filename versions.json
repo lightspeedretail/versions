@@ -55,7 +55,7 @@
                     "version": "webclient-2016-7-04052016-0837"
                 },
                 "staging": {
-                    "comment": "webclient staging at 2016-04-04-1805",
+                    "comment": "webclient staging at 2016-08-08-1811",
                     "version": "master"
                 }
             }
